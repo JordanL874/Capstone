@@ -1,0 +1,4138 @@
+[
+    {
+        "Country": "AUS",
+        "Date": 2012,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.271
+    },
+    {
+        "Country": "AUS",
+        "Date": 2014,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.278
+    },
+    {
+        "Country": "AUS",
+        "Date": 2016,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.287
+    },
+    {
+        "Country": "AUS",
+        "Date": 2018,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.297
+    },
+    {
+        "Country": "AUS",
+        "Date": 2020,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.315
+    },
+    {
+        "Country": "AUT",
+        "Date": 2007,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.28
+    },
+    {
+        "Country": "AUT",
+        "Date": 2008,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.302
+    },
+    {
+        "Country": "AUT",
+        "Date": 2009,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.328
+    },
+    {
+        "Country": "AUT",
+        "Date": 2010,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.297
+    },
+    {
+        "Country": "AUT",
+        "Date": 2011,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.327
+    },
+    {
+        "Country": "AUT",
+        "Date": 2012,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.335
+    },
+    {
+        "Country": "AUT",
+        "Date": 2013,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.281
+    },
+    {
+        "Country": "AUT",
+        "Date": 2014,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.278
+    },
+    {
+        "Country": "AUT",
+        "Date": 2015,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.335
+    },
+    {
+        "Country": "AUT",
+        "Date": 2016,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.353
+    },
+    {
+        "Country": "AUT",
+        "Date": 2017,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.29
+    },
+    {
+        "Country": "AUT",
+        "Date": 2018,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.322
+    },
+    {
+        "Country": "AUT",
+        "Date": 2019,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.294
+    },
+    {
+        "Country": "BEL",
+        "Date": 2018,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.219
+    },
+    {
+        "Country": "BEL",
+        "Date": 2019,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.233
+    },
+    {
+        "Country": "CAN",
+        "Date": 2000,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.306
+    },
+    {
+        "Country": "CAN",
+        "Date": 2001,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.302
+    },
+    {
+        "Country": "CAN",
+        "Date": 2002,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.302
+    },
+    {
+        "Country": "CAN",
+        "Date": 2003,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.301
+    },
+    {
+        "Country": "CAN",
+        "Date": 2004,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.298
+    },
+    {
+        "Country": "CAN",
+        "Date": 2005,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.309
+    },
+    {
+        "Country": "CAN",
+        "Date": 2006,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.3
+    },
+    {
+        "Country": "CAN",
+        "Date": 2007,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.298
+    },
+    {
+        "Country": "CAN",
+        "Date": 2008,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.304
+    },
+    {
+        "Country": "CAN",
+        "Date": 2009,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.302
+    },
+    {
+        "Country": "CAN",
+        "Date": 2010,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.291
+    },
+    {
+        "Country": "CAN",
+        "Date": 2011,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.306
+    },
+    {
+        "Country": "CAN",
+        "Date": 2012,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.316
+    },
+    {
+        "Country": "CAN",
+        "Date": 2013,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.324
+    },
+    {
+        "Country": "CAN",
+        "Date": 2014,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.311
+    },
+    {
+        "Country": "CAN",
+        "Date": 2015,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.305
+    },
+    {
+        "Country": "CAN",
+        "Date": 2016,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.304
+    },
+    {
+        "Country": "CAN",
+        "Date": 2017,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.305
+    },
+    {
+        "Country": "CAN",
+        "Date": 2018,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.3
+    },
+    {
+        "Country": "CAN",
+        "Date": 2019,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.304
+    },
+    {
+        "Country": "CAN",
+        "Date": 2020,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.259
+    },
+    {
+        "Country": "CZE",
+        "Date": 2004,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.231
+    },
+    {
+        "Country": "CZE",
+        "Date": 2005,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.202
+    },
+    {
+        "Country": "CZE",
+        "Date": 2006,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.223
+    },
+    {
+        "Country": "CZE",
+        "Date": 2007,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.231
+    },
+    {
+        "Country": "CZE",
+        "Date": 2008,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.227
+    },
+    {
+        "Country": "CZE",
+        "Date": 2009,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.245
+    },
+    {
+        "Country": "CZE",
+        "Date": 2010,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.237
+    },
+    {
+        "Country": "CZE",
+        "Date": 2011,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.239
+    },
+    {
+        "Country": "CZE",
+        "Date": 2012,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.248
+    },
+    {
+        "Country": "CZE",
+        "Date": 2013,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.217
+    },
+    {
+        "Country": "CZE",
+        "Date": 2014,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.236
+    },
+    {
+        "Country": "CZE",
+        "Date": 2015,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.214
+    },
+    {
+        "Country": "CZE",
+        "Date": 2016,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.236
+    },
+    {
+        "Country": "CZE",
+        "Date": 2017,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.218
+    },
+    {
+        "Country": "CZE",
+        "Date": 2018,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.199
+    },
+    {
+        "Country": "CZE",
+        "Date": 2019,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.203
+    },
+    {
+        "Country": "DNK",
+        "Date": 2011,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.294
+    },
+    {
+        "Country": "DNK",
+        "Date": 2012,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.305
+    },
+    {
+        "Country": "DNK",
+        "Date": 2013,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.308
+    },
+    {
+        "Country": "DNK",
+        "Date": 2014,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.307
+    },
+    {
+        "Country": "DNK",
+        "Date": 2015,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.31
+    },
+    {
+        "Country": "DNK",
+        "Date": 2016,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.299
+    },
+    {
+        "Country": "DNK",
+        "Date": 2017,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.294
+    },
+    {
+        "Country": "DNK",
+        "Date": 2018,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.289
+    },
+    {
+        "Country": "DNK",
+        "Date": 2019,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.279
+    },
+    {
+        "Country": "FIN",
+        "Date": 2000,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.218
+    },
+    {
+        "Country": "FIN",
+        "Date": 2001,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.221
+    },
+    {
+        "Country": "FIN",
+        "Date": 2002,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.218
+    },
+    {
+        "Country": "FIN",
+        "Date": 2003,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.229
+    },
+    {
+        "Country": "FIN",
+        "Date": 2004,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.208
+    },
+    {
+        "Country": "FIN",
+        "Date": 2005,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.209
+    },
+    {
+        "Country": "FIN",
+        "Date": 2006,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.206
+    },
+    {
+        "Country": "FIN",
+        "Date": 2007,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.206
+    },
+    {
+        "Country": "FIN",
+        "Date": 2008,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.209
+    },
+    {
+        "Country": "FIN",
+        "Date": 2009,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.208
+    },
+    {
+        "Country": "FIN",
+        "Date": 2010,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.217
+    },
+    {
+        "Country": "FIN",
+        "Date": 2011,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.208
+    },
+    {
+        "Country": "FIN",
+        "Date": 2012,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.226
+    },
+    {
+        "Country": "FIN",
+        "Date": 2013,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.21
+    },
+    {
+        "Country": "FIN",
+        "Date": 2014,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.213
+    },
+    {
+        "Country": "FIN",
+        "Date": 2015,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.223
+    },
+    {
+        "Country": "FIN",
+        "Date": 2016,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.225
+    },
+    {
+        "Country": "FIN",
+        "Date": 2017,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.21
+    },
+    {
+        "Country": "FIN",
+        "Date": 2018,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.212
+    },
+    {
+        "Country": "FIN",
+        "Date": 2019,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.203
+    },
+    {
+        "Country": "FIN",
+        "Date": 2020,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.202
+    },
+    {
+        "Country": "FRA",
+        "Date": 2012,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.262
+    },
+    {
+        "Country": "FRA",
+        "Date": 2013,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.244
+    },
+    {
+        "Country": "FRA",
+        "Date": 2014,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.257
+    },
+    {
+        "Country": "FRA",
+        "Date": 2015,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.238
+    },
+    {
+        "Country": "FRA",
+        "Date": 2016,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.239
+    },
+    {
+        "Country": "FRA",
+        "Date": 2017,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.253
+    },
+    {
+        "Country": "FRA",
+        "Date": 2018,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.242
+    },
+    {
+        "Country": "FRA",
+        "Date": 2019,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.261
+    },
+    {
+        "Country": "DEU",
+        "Date": 2008,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.237
+    },
+    {
+        "Country": "DEU",
+        "Date": 2011,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.236
+    },
+    {
+        "Country": "DEU",
+        "Date": 2012,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.218
+    },
+    {
+        "Country": "DEU",
+        "Date": 2013,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.227
+    },
+    {
+        "Country": "DEU",
+        "Date": 2014,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.257
+    },
+    {
+        "Country": "DEU",
+        "Date": 2015,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.256
+    },
+    {
+        "Country": "DEU",
+        "Date": 2016,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.265
+    },
+    {
+        "Country": "DEU",
+        "Date": 2017,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.251
+    },
+    {
+        "Country": "DEU",
+        "Date": 2018,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.256
+    },
+    {
+        "Country": "DEU",
+        "Date": 2019,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.253
+    },
+    {
+        "Country": "GRC",
+        "Date": 2004,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.309
+    },
+    {
+        "Country": "GRC",
+        "Date": 2005,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.292
+    },
+    {
+        "Country": "GRC",
+        "Date": 2006,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.316
+    },
+    {
+        "Country": "GRC",
+        "Date": 2007,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.31
+    },
+    {
+        "Country": "GRC",
+        "Date": 2008,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.297
+    },
+    {
+        "Country": "GRC",
+        "Date": 2009,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.304
+    },
+    {
+        "Country": "GRC",
+        "Date": 2010,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.343
+    },
+    {
+        "Country": "GRC",
+        "Date": 2011,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.395
+    },
+    {
+        "Country": "GRC",
+        "Date": 2012,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.387
+    },
+    {
+        "Country": "GRC",
+        "Date": 2013,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.347
+    },
+    {
+        "Country": "GRC",
+        "Date": 2014,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.389
+    },
+    {
+        "Country": "GRC",
+        "Date": 2015,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.379
+    },
+    {
+        "Country": "GRC",
+        "Date": 2016,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.353
+    },
+    {
+        "Country": "GRC",
+        "Date": 2017,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.336
+    },
+    {
+        "Country": "GRC",
+        "Date": 2018,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.292
+    },
+    {
+        "Country": "GRC",
+        "Date": 2019,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.331
+    },
+    {
+        "Country": "HUN",
+        "Date": 2006,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.231
+    },
+    {
+        "Country": "HUN",
+        "Date": 2007,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.226
+    },
+    {
+        "Country": "HUN",
+        "Date": 2008,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.198
+    },
+    {
+        "Country": "HUN",
+        "Date": 2009,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.191
+    },
+    {
+        "Country": "HUN",
+        "Date": 2010,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.199
+    },
+    {
+        "Country": "HUN",
+        "Date": 2011,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.219
+    },
+    {
+        "Country": "HUN",
+        "Date": 2012,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.25
+    },
+    {
+        "Country": "HUN",
+        "Date": 2013,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.234
+    },
+    {
+        "Country": "HUN",
+        "Date": 2014,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.291
+    },
+    {
+        "Country": "HUN",
+        "Date": 2015,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.327
+    },
+    {
+        "Country": "HUN",
+        "Date": 2016,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.426
+    },
+    {
+        "Country": "HUN",
+        "Date": 2017,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.349
+    },
+    {
+        "Country": "HUN",
+        "Date": 2018,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.32
+    },
+    {
+        "Country": "HUN",
+        "Date": 2019,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.343
+    },
+    {
+        "Country": "ISL",
+        "Date": 2004,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.306
+    },
+    {
+        "Country": "ISL",
+        "Date": 2005,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.306
+    },
+    {
+        "Country": "ISL",
+        "Date": 2006,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.281
+    },
+    {
+        "Country": "ISL",
+        "Date": 2007,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.247
+    },
+    {
+        "Country": "ISL",
+        "Date": 2008,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.279
+    },
+    {
+        "Country": "ISL",
+        "Date": 2009,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.299
+    },
+    {
+        "Country": "ISL",
+        "Date": 2010,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.298
+    },
+    {
+        "Country": "ISL",
+        "Date": 2011,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.334
+    },
+    {
+        "Country": "ISL",
+        "Date": 2012,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.282
+    },
+    {
+        "Country": "ISL",
+        "Date": 2013,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.301
+    },
+    {
+        "Country": "ISL",
+        "Date": 2014,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.334
+    },
+    {
+        "Country": "ISL",
+        "Date": 2015,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.271
+    },
+    {
+        "Country": "ISL",
+        "Date": 2016,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.269
+    },
+    {
+        "Country": "ISL",
+        "Date": 2017,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.267
+    },
+    {
+        "Country": "IRL",
+        "Date": 2004,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.203
+    },
+    {
+        "Country": "IRL",
+        "Date": 2005,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.185
+    },
+    {
+        "Country": "IRL",
+        "Date": 2006,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.218
+    },
+    {
+        "Country": "IRL",
+        "Date": 2007,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.21
+    },
+    {
+        "Country": "IRL",
+        "Date": 2008,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.228
+    },
+    {
+        "Country": "IRL",
+        "Date": 2009,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.299
+    },
+    {
+        "Country": "IRL",
+        "Date": 2010,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.326
+    },
+    {
+        "Country": "IRL",
+        "Date": 2011,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.294
+    },
+    {
+        "Country": "IRL",
+        "Date": 2012,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.277
+    },
+    {
+        "Country": "IRL",
+        "Date": 2013,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.302
+    },
+    {
+        "Country": "IRL",
+        "Date": 2014,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.254
+    },
+    {
+        "Country": "IRL",
+        "Date": 2015,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.232
+    },
+    {
+        "Country": "IRL",
+        "Date": 2016,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.237
+    },
+    {
+        "Country": "IRL",
+        "Date": 2017,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.223
+    },
+    {
+        "Country": "IRL",
+        "Date": 2018,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.187
+    },
+    {
+        "Country": "ITA",
+        "Date": 2004,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.332
+    },
+    {
+        "Country": "ITA",
+        "Date": 2005,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.337
+    },
+    {
+        "Country": "ITA",
+        "Date": 2006,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.334
+    },
+    {
+        "Country": "ITA",
+        "Date": 2007,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.332
+    },
+    {
+        "Country": "ITA",
+        "Date": 2008,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.332
+    },
+    {
+        "Country": "ITA",
+        "Date": 2009,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.342
+    },
+    {
+        "Country": "ITA",
+        "Date": 2010,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.377
+    },
+    {
+        "Country": "ITA",
+        "Date": 2011,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.369
+    },
+    {
+        "Country": "ITA",
+        "Date": 2012,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.401
+    },
+    {
+        "Country": "ITA",
+        "Date": 2013,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.399
+    },
+    {
+        "Country": "ITA",
+        "Date": 2014,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.397
+    },
+    {
+        "Country": "ITA",
+        "Date": 2015,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.437
+    },
+    {
+        "Country": "ITA",
+        "Date": 2016,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.408
+    },
+    {
+        "Country": "ITA",
+        "Date": 2017,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.404
+    },
+    {
+        "Country": "ITA",
+        "Date": 2018,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.396
+    },
+    {
+        "Country": "JPN",
+        "Date": 2018,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.364
+    },
+    {
+        "Country": "KOR",
+        "Date": 2011,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.371
+    },
+    {
+        "Country": "KOR",
+        "Date": 2012,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.372
+    },
+    {
+        "Country": "KOR",
+        "Date": 2013,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.37
+    },
+    {
+        "Country": "KOR",
+        "Date": 2014,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.361
+    },
+    {
+        "Country": "KOR",
+        "Date": 2015,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.354
+    },
+    {
+        "Country": "KOR",
+        "Date": 2016,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.351
+    },
+    {
+        "Country": "KOR",
+        "Date": 2017,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.355
+    },
+    {
+        "Country": "KOR",
+        "Date": 2018,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.342
+    },
+    {
+        "Country": "KOR",
+        "Date": 2019,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.327
+    },
+    {
+        "Country": "KOR",
+        "Date": 2020,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.302
+    },
+    {
+        "Country": "LUX",
+        "Date": 2015,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.285
+    },
+    {
+        "Country": "LUX",
+        "Date": 2016,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.288
+    },
+    {
+        "Country": "LUX",
+        "Date": 2017,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.352
+    },
+    {
+        "Country": "LUX",
+        "Date": 2018,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.325
+    },
+    {
+        "Country": "LUX",
+        "Date": 2019,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.25
+    },
+    {
+        "Country": "MEX",
+        "Date": 2012,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.384
+    },
+    {
+        "Country": "MEX",
+        "Date": 2014,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.334
+    },
+    {
+        "Country": "MEX",
+        "Date": 2016,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.335
+    },
+    {
+        "Country": "MEX",
+        "Date": 2018,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.322
+    },
+    {
+        "Country": "MEX",
+        "Date": 2020,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.337
+    },
+    {
+        "Country": "NLD",
+        "Date": 2011,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.311
+    },
+    {
+        "Country": "NLD",
+        "Date": 2012,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.317
+    },
+    {
+        "Country": "NLD",
+        "Date": 2013,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.314
+    },
+    {
+        "Country": "NLD",
+        "Date": 2014,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.31
+    },
+    {
+        "Country": "NLD",
+        "Date": 2015,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.331
+    },
+    {
+        "Country": "NLD",
+        "Date": 2016,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.309
+    },
+    {
+        "Country": "NLD",
+        "Date": 2017,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.315
+    },
+    {
+        "Country": "NLD",
+        "Date": 2018,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.32
+    },
+    {
+        "Country": "NLD",
+        "Date": 2019,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.314
+    },
+    {
+        "Country": "NLD",
+        "Date": 2020,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.313
+    },
+    {
+        "Country": "NZL",
+        "Date": 2006,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.337
+    },
+    {
+        "Country": "NZL",
+        "Date": 2007,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.354
+    },
+    {
+        "Country": "NZL",
+        "Date": 2008,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.34
+    },
+    {
+        "Country": "NZL",
+        "Date": 2009,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.338
+    },
+    {
+        "Country": "NZL",
+        "Date": 2010,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.371
+    },
+    {
+        "Country": "NZL",
+        "Date": 2011,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.361
+    },
+    {
+        "Country": "NZL",
+        "Date": 2012,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.325
+    },
+    {
+        "Country": "NZL",
+        "Date": 2013,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.341
+    },
+    {
+        "Country": "NZL",
+        "Date": 2014,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.328
+    },
+    {
+        "Country": "NZL",
+        "Date": 2015,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.355
+    },
+    {
+        "Country": "NZL",
+        "Date": 2016,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.33
+    },
+    {
+        "Country": "NZL",
+        "Date": 2017,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.315
+    },
+    {
+        "Country": "NZL",
+        "Date": 2018,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.315
+    },
+    {
+        "Country": "NZL",
+        "Date": 2019,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.314
+    },
+    {
+        "Country": "NZL",
+        "Date": 2020,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.313
+    },
+    {
+        "Country": "NOR",
+        "Date": 2004,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.317
+    },
+    {
+        "Country": "NOR",
+        "Date": 2008,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.336
+    },
+    {
+        "Country": "NOR",
+        "Date": 2009,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.362
+    },
+    {
+        "Country": "NOR",
+        "Date": 2010,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.367
+    },
+    {
+        "Country": "NOR",
+        "Date": 2011,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.369
+    },
+    {
+        "Country": "NOR",
+        "Date": 2012,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.368
+    },
+    {
+        "Country": "NOR",
+        "Date": 2013,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.356
+    },
+    {
+        "Country": "NOR",
+        "Date": 2014,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.353
+    },
+    {
+        "Country": "NOR",
+        "Date": 2015,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.352
+    },
+    {
+        "Country": "NOR",
+        "Date": 2016,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.353
+    },
+    {
+        "Country": "NOR",
+        "Date": 2017,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.343
+    },
+    {
+        "Country": "NOR",
+        "Date": 2018,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.337
+    },
+    {
+        "Country": "NOR",
+        "Date": 2019,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.35
+    },
+    {
+        "Country": "NOR",
+        "Date": 2020,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.356
+    },
+    {
+        "Country": "POL",
+        "Date": 2005,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.294
+    },
+    {
+        "Country": "POL",
+        "Date": 2006,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.273
+    },
+    {
+        "Country": "POL",
+        "Date": 2007,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.277
+    },
+    {
+        "Country": "POL",
+        "Date": 2008,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.249
+    },
+    {
+        "Country": "POL",
+        "Date": 2009,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.267
+    },
+    {
+        "Country": "POL",
+        "Date": 2010,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.28
+    },
+    {
+        "Country": "POL",
+        "Date": 2011,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.272
+    },
+    {
+        "Country": "POL",
+        "Date": 2012,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.269
+    },
+    {
+        "Country": "POL",
+        "Date": 2013,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.271
+    },
+    {
+        "Country": "POL",
+        "Date": 2014,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.292
+    },
+    {
+        "Country": "POL",
+        "Date": 2015,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.288
+    },
+    {
+        "Country": "POL",
+        "Date": 2016,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.284
+    },
+    {
+        "Country": "POL",
+        "Date": 2017,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.286
+    },
+    {
+        "Country": "POL",
+        "Date": 2018,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.282
+    },
+    {
+        "Country": "PRT",
+        "Date": 2004,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.289
+    },
+    {
+        "Country": "PRT",
+        "Date": 2005,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.295
+    },
+    {
+        "Country": "PRT",
+        "Date": 2006,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.265
+    },
+    {
+        "Country": "PRT",
+        "Date": 2007,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.259
+    },
+    {
+        "Country": "PRT",
+        "Date": 2008,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.269
+    },
+    {
+        "Country": "PRT",
+        "Date": 2009,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.259
+    },
+    {
+        "Country": "PRT",
+        "Date": 2010,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.247
+    },
+    {
+        "Country": "PRT",
+        "Date": 2011,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.287
+    },
+    {
+        "Country": "PRT",
+        "Date": 2012,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.31
+    },
+    {
+        "Country": "PRT",
+        "Date": 2013,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.326
+    },
+    {
+        "Country": "PRT",
+        "Date": 2014,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.299
+    },
+    {
+        "Country": "PRT",
+        "Date": 2015,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.296
+    },
+    {
+        "Country": "PRT",
+        "Date": 2016,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.294
+    },
+    {
+        "Country": "PRT",
+        "Date": 2017,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.28
+    },
+    {
+        "Country": "PRT",
+        "Date": 2018,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.287
+    },
+    {
+        "Country": "PRT",
+        "Date": 2019,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.266
+    },
+    {
+        "Country": "SVK",
+        "Date": 2004,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.25
+    },
+    {
+        "Country": "SVK",
+        "Date": 2005,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.263
+    },
+    {
+        "Country": "SVK",
+        "Date": 2006,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.277
+    },
+    {
+        "Country": "SVK",
+        "Date": 2007,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.268
+    },
+    {
+        "Country": "SVK",
+        "Date": 2008,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.29
+    },
+    {
+        "Country": "SVK",
+        "Date": 2009,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.313
+    },
+    {
+        "Country": "SVK",
+        "Date": 2010,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.31
+    },
+    {
+        "Country": "SVK",
+        "Date": 2011,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.301
+    },
+    {
+        "Country": "SVK",
+        "Date": 2012,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.299
+    },
+    {
+        "Country": "SVK",
+        "Date": 2013,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.332
+    },
+    {
+        "Country": "SVK",
+        "Date": 2014,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.343
+    },
+    {
+        "Country": "SVK",
+        "Date": 2015,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.338
+    },
+    {
+        "Country": "SVK",
+        "Date": 2016,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.403
+    },
+    {
+        "Country": "SVK",
+        "Date": 2017,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.321
+    },
+    {
+        "Country": "SVK",
+        "Date": 2018,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.347
+    },
+    {
+        "Country": "SVK",
+        "Date": 2019,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.284
+    },
+    {
+        "Country": "ESP",
+        "Date": 2007,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.311
+    },
+    {
+        "Country": "ESP",
+        "Date": 2008,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.317
+    },
+    {
+        "Country": "ESP",
+        "Date": 2009,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.347
+    },
+    {
+        "Country": "ESP",
+        "Date": 2010,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.352
+    },
+    {
+        "Country": "ESP",
+        "Date": 2011,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.379
+    },
+    {
+        "Country": "ESP",
+        "Date": 2012,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.384
+    },
+    {
+        "Country": "ESP",
+        "Date": 2013,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.38
+    },
+    {
+        "Country": "ESP",
+        "Date": 2014,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.403
+    },
+    {
+        "Country": "ESP",
+        "Date": 2015,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.378
+    },
+    {
+        "Country": "ESP",
+        "Date": 2016,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.389
+    },
+    {
+        "Country": "ESP",
+        "Date": 2017,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.346
+    },
+    {
+        "Country": "ESP",
+        "Date": 2018,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.366
+    },
+    {
+        "Country": "ESP",
+        "Date": 2019,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.356
+    },
+    {
+        "Country": "SWE",
+        "Date": 2013,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.237
+    },
+    {
+        "Country": "SWE",
+        "Date": 2014,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.23
+    },
+    {
+        "Country": "SWE",
+        "Date": 2015,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.218
+    },
+    {
+        "Country": "SWE",
+        "Date": 2016,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.216
+    },
+    {
+        "Country": "SWE",
+        "Date": 2017,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.225
+    },
+    {
+        "Country": "SWE",
+        "Date": 2018,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.221
+    },
+    {
+        "Country": "SWE",
+        "Date": 2019,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.224
+    },
+    {
+        "Country": "SWE",
+        "Date": 2020,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.227
+    },
+    {
+        "Country": "CHE",
+        "Date": 2006,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.298
+    },
+    {
+        "Country": "CHE",
+        "Date": 2007,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.317
+    },
+    {
+        "Country": "CHE",
+        "Date": 2008,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.286
+    },
+    {
+        "Country": "CHE",
+        "Date": 2009,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.268
+    },
+    {
+        "Country": "CHE",
+        "Date": 2010,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.289
+    },
+    {
+        "Country": "CHE",
+        "Date": 2011,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.252
+    },
+    {
+        "Country": "CHE",
+        "Date": 2012,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.238
+    },
+    {
+        "Country": "CHE",
+        "Date": 2013,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.243
+    },
+    {
+        "Country": "CHE",
+        "Date": 2014,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.24
+    },
+    {
+        "Country": "CHE",
+        "Date": 2015,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.262
+    },
+    {
+        "Country": "CHE",
+        "Date": 2016,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.263
+    },
+    {
+        "Country": "CHE",
+        "Date": 2017,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.274
+    },
+    {
+        "Country": "CHE",
+        "Date": 2018,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.281
+    },
+    {
+        "Country": "CHE",
+        "Date": 2019,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.289
+    },
+    {
+        "Country": "TUR",
+        "Date": 2011,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.308
+    },
+    {
+        "Country": "TUR",
+        "Date": 2012,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.302
+    },
+    {
+        "Country": "TUR",
+        "Date": 2013,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.294
+    },
+    {
+        "Country": "TUR",
+        "Date": 2014,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.306
+    },
+    {
+        "Country": "TUR",
+        "Date": 2015,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.282
+    },
+    {
+        "Country": "TUR",
+        "Date": 2017,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.264
+    },
+    {
+        "Country": "TUR",
+        "Date": 2018,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.284
+    },
+    {
+        "Country": "TUR",
+        "Date": 2019,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.307
+    },
+    {
+        "Country": "GBR",
+        "Date": 2002,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.284
+    },
+    {
+        "Country": "GBR",
+        "Date": 2003,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.293
+    },
+    {
+        "Country": "GBR",
+        "Date": 2004,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.294
+    },
+    {
+        "Country": "GBR",
+        "Date": 2005,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.296
+    },
+    {
+        "Country": "GBR",
+        "Date": 2006,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.311
+    },
+    {
+        "Country": "GBR",
+        "Date": 2007,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.306
+    },
+    {
+        "Country": "GBR",
+        "Date": 2008,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.324
+    },
+    {
+        "Country": "GBR",
+        "Date": 2009,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.325
+    },
+    {
+        "Country": "GBR",
+        "Date": 2010,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.316
+    },
+    {
+        "Country": "GBR",
+        "Date": 2011,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.302
+    },
+    {
+        "Country": "GBR",
+        "Date": 2012,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.332
+    },
+    {
+        "Country": "GBR",
+        "Date": 2013,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.306
+    },
+    {
+        "Country": "GBR",
+        "Date": 2014,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.316
+    },
+    {
+        "Country": "GBR",
+        "Date": 2015,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.322
+    },
+    {
+        "Country": "GBR",
+        "Date": 2016,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.355
+    },
+    {
+        "Country": "GBR",
+        "Date": 2017,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.344
+    },
+    {
+        "Country": "GBR",
+        "Date": 2018,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.368
+    },
+    {
+        "Country": "GBR",
+        "Date": 2019,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.326
+    },
+    {
+        "Country": "GBR",
+        "Date": 2020,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.363
+    },
+    {
+        "Country": "USA",
+        "Date": 2013,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.402
+    },
+    {
+        "Country": "USA",
+        "Date": 2014,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.405
+    },
+    {
+        "Country": "USA",
+        "Date": 2015,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.4
+    },
+    {
+        "Country": "USA",
+        "Date": 2016,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.398
+    },
+    {
+        "Country": "USA",
+        "Date": 2017,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.388
+    },
+    {
+        "Country": "USA",
+        "Date": 2018,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.376
+    },
+    {
+        "Country": "USA",
+        "Date": 2019,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.368
+    },
+    {
+        "Country": "USA",
+        "Date": 2020,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.359
+    },
+    {
+        "Country": "USA",
+        "Date": 2021,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.341
+    },
+    {
+        "Country": "CHL",
+        "Date": 2009,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.339
+    },
+    {
+        "Country": "CHL",
+        "Date": 2011,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.317
+    },
+    {
+        "Country": "CHL",
+        "Date": 2013,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.315
+    },
+    {
+        "Country": "CHL",
+        "Date": 2015,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.31
+    },
+    {
+        "Country": "CHL",
+        "Date": 2017,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.31
+    },
+    {
+        "Country": "EST",
+        "Date": 2013,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.294
+    },
+    {
+        "Country": "EST",
+        "Date": 2014,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.283
+    },
+    {
+        "Country": "EST",
+        "Date": 2015,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.267
+    },
+    {
+        "Country": "EST",
+        "Date": 2016,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.265
+    },
+    {
+        "Country": "EST",
+        "Date": 2017,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.261
+    },
+    {
+        "Country": "EST",
+        "Date": 2018,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.262
+    },
+    {
+        "Country": "EST",
+        "Date": 2019,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.273
+    },
+    {
+        "Country": "ISR",
+        "Date": 2011,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.334
+    },
+    {
+        "Country": "ISR",
+        "Date": 2012,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.352
+    },
+    {
+        "Country": "ISR",
+        "Date": 2013,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.384
+    },
+    {
+        "Country": "ISR",
+        "Date": 2014,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.352
+    },
+    {
+        "Country": "ISR",
+        "Date": 2015,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.321
+    },
+    {
+        "Country": "ISR",
+        "Date": 2016,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.318
+    },
+    {
+        "Country": "ISR",
+        "Date": 2017,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.329
+    },
+    {
+        "Country": "ISR",
+        "Date": 2018,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.325
+    },
+    {
+        "Country": "ISR",
+        "Date": 2019,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.334
+    },
+    {
+        "Country": "SVN",
+        "Date": 2004,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.241
+    },
+    {
+        "Country": "SVN",
+        "Date": 2005,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.247
+    },
+    {
+        "Country": "SVN",
+        "Date": 2006,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.23
+    },
+    {
+        "Country": "SVN",
+        "Date": 2007,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.239
+    },
+    {
+        "Country": "SVN",
+        "Date": 2008,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.23
+    },
+    {
+        "Country": "SVN",
+        "Date": 2009,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.226
+    },
+    {
+        "Country": "SVN",
+        "Date": 2010,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.225
+    },
+    {
+        "Country": "SVN",
+        "Date": 2011,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.233
+    },
+    {
+        "Country": "SVN",
+        "Date": 2012,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.225
+    },
+    {
+        "Country": "SVN",
+        "Date": 2013,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.239
+    },
+    {
+        "Country": "SVN",
+        "Date": 2014,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.234
+    },
+    {
+        "Country": "SVN",
+        "Date": 2015,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.241
+    },
+    {
+        "Country": "SVN",
+        "Date": 2016,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.226
+    },
+    {
+        "Country": "SVN",
+        "Date": 2017,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.215
+    },
+    {
+        "Country": "SVN",
+        "Date": 2018,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.217
+    },
+    {
+        "Country": "SVN",
+        "Date": 2019,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.205
+    },
+    {
+        "Country": "LVA",
+        "Date": 2004,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.359
+    },
+    {
+        "Country": "LVA",
+        "Date": 2005,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.331
+    },
+    {
+        "Country": "LVA",
+        "Date": 2006,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.315
+    },
+    {
+        "Country": "LVA",
+        "Date": 2007,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.308
+    },
+    {
+        "Country": "LVA",
+        "Date": 2008,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.311
+    },
+    {
+        "Country": "LVA",
+        "Date": 2009,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.347
+    },
+    {
+        "Country": "LVA",
+        "Date": 2010,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.34
+    },
+    {
+        "Country": "LVA",
+        "Date": 2011,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.329
+    },
+    {
+        "Country": "LVA",
+        "Date": 2012,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.317
+    },
+    {
+        "Country": "LVA",
+        "Date": 2013,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.306
+    },
+    {
+        "Country": "LVA",
+        "Date": 2014,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.286
+    },
+    {
+        "Country": "LVA",
+        "Date": 2015,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.306
+    },
+    {
+        "Country": "LVA",
+        "Date": 2016,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.31
+    },
+    {
+        "Country": "LVA",
+        "Date": 2017,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.33
+    },
+    {
+        "Country": "LVA",
+        "Date": 2018,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.306
+    },
+    {
+        "Country": "LVA",
+        "Date": 2019,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.306
+    },
+    {
+        "Country": "LVA",
+        "Date": 2020,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.31
+    },
+    {
+        "Country": "LTU",
+        "Date": 2004,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.32
+    },
+    {
+        "Country": "LTU",
+        "Date": 2005,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.324
+    },
+    {
+        "Country": "LTU",
+        "Date": 2006,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.297
+    },
+    {
+        "Country": "LTU",
+        "Date": 2007,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.3
+    },
+    {
+        "Country": "LTU",
+        "Date": 2008,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.29
+    },
+    {
+        "Country": "LTU",
+        "Date": 2009,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.376
+    },
+    {
+        "Country": "LTU",
+        "Date": 2010,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.354
+    },
+    {
+        "Country": "LTU",
+        "Date": 2011,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.285
+    },
+    {
+        "Country": "LTU",
+        "Date": 2012,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.277
+    },
+    {
+        "Country": "LTU",
+        "Date": 2013,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.305
+    },
+    {
+        "Country": "LTU",
+        "Date": 2014,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.326
+    },
+    {
+        "Country": "LTU",
+        "Date": 2015,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.313
+    },
+    {
+        "Country": "LTU",
+        "Date": 2016,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.346
+    },
+    {
+        "Country": "LTU",
+        "Date": 2017,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.332
+    },
+    {
+        "Country": "LTU",
+        "Date": 2018,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.328
+    },
+    {
+        "Country": "LTU",
+        "Date": 2019,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.282
+    },
+    {
+        "Country": "CRI",
+        "Date": 2010,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.353
+    },
+    {
+        "Country": "CRI",
+        "Date": 2011,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.367
+    },
+    {
+        "Country": "CRI",
+        "Date": 2012,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.374
+    },
+    {
+        "Country": "CRI",
+        "Date": 2013,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.384
+    },
+    {
+        "Country": "CRI",
+        "Date": 2014,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.379
+    },
+    {
+        "Country": "CRI",
+        "Date": 2015,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.387
+    },
+    {
+        "Country": "CRI",
+        "Date": 2016,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.378
+    },
+    {
+        "Country": "CRI",
+        "Date": 2017,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.365
+    },
+    {
+        "Country": "CRI",
+        "Date": 2018,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.376
+    },
+    {
+        "Country": "CRI",
+        "Date": 2019,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.36
+    },
+    {
+        "Country": "CRI",
+        "Date": 2020,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.379
+    },
+    {
+        "Country": "CRI",
+        "Date": 2021,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.365
+    },
+    {
+        "Country": "AUS",
+        "Date": 2018,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.124
+    },
+    {
+        "Country": "AUS",
+        "Date": 2020,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.126
+    },
+    {
+        "Country": "AUT",
+        "Date": 2018,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.094
+    },
+    {
+        "Country": "AUT",
+        "Date": 2019,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.1
+    },
+    {
+        "Country": "BEL",
+        "Date": 2018,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.082
+    },
+    {
+        "Country": "BEL",
+        "Date": 2019,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.081
+    },
+    {
+        "Country": "CAN",
+        "Date": 2018,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.118
+    },
+    {
+        "Country": "CAN",
+        "Date": 2019,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.115
+    },
+    {
+        "Country": "CAN",
+        "Date": 2020,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.086
+    },
+    {
+        "Country": "CZE",
+        "Date": 2018,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.061
+    },
+    {
+        "Country": "CZE",
+        "Date": 2019,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.056
+    },
+    {
+        "Country": "DNK",
+        "Date": 2018,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.064
+    },
+    {
+        "Country": "DNK",
+        "Date": 2019,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.065
+    },
+    {
+        "Country": "FIN",
+        "Date": 2018,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.065
+    },
+    {
+        "Country": "FIN",
+        "Date": 2019,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.064
+    },
+    {
+        "Country": "FIN",
+        "Date": 2020,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.057
+    },
+    {
+        "Country": "FRA",
+        "Date": 2018,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.085
+    },
+    {
+        "Country": "FRA",
+        "Date": 2019,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.084
+    },
+    {
+        "Country": "DEU",
+        "Date": 2018,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.098
+    },
+    {
+        "Country": "DEU",
+        "Date": 2019,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.109
+    },
+    {
+        "Country": "GRC",
+        "Date": 2018,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.121
+    },
+    {
+        "Country": "GRC",
+        "Date": 2019,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.115
+    },
+    {
+        "Country": "HUN",
+        "Date": 2018,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.087
+    },
+    {
+        "Country": "HUN",
+        "Date": 2019,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.092
+    },
+    {
+        "Country": "IRL",
+        "Date": 2018,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.074
+    },
+    {
+        "Country": "ITA",
+        "Date": 2018,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.142
+    },
+    {
+        "Country": "KOR",
+        "Date": 2018,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.167
+    },
+    {
+        "Country": "KOR",
+        "Date": 2019,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.163
+    },
+    {
+        "Country": "KOR",
+        "Date": 2020,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.153
+    },
+    {
+        "Country": "LUX",
+        "Date": 2018,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.114
+    },
+    {
+        "Country": "LUX",
+        "Date": 2019,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.105
+    },
+    {
+        "Country": "MEX",
+        "Date": 2018,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.159
+    },
+    {
+        "Country": "MEX",
+        "Date": 2020,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.166
+    },
+    {
+        "Country": "NLD",
+        "Date": 2018,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.078
+    },
+    {
+        "Country": "NLD",
+        "Date": 2019,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.08
+    },
+    {
+        "Country": "NLD",
+        "Date": 2020,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.083
+    },
+    {
+        "Country": "NZL",
+        "Date": 2018,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.137
+    },
+    {
+        "Country": "NZL",
+        "Date": 2019,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.129
+    },
+    {
+        "Country": "NZL",
+        "Date": 2020,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.124
+    },
+    {
+        "Country": "NOR",
+        "Date": 2018,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.084
+    },
+    {
+        "Country": "NOR",
+        "Date": 2019,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.084
+    },
+    {
+        "Country": "NOR",
+        "Date": 2020,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.084
+    },
+    {
+        "Country": "POL",
+        "Date": 2018,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.098
+    },
+    {
+        "Country": "PRT",
+        "Date": 2018,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.104
+    },
+    {
+        "Country": "PRT",
+        "Date": 2019,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.106
+    },
+    {
+        "Country": "SVK",
+        "Date": 2018,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.077
+    },
+    {
+        "Country": "SVK",
+        "Date": 2019,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.078
+    },
+    {
+        "Country": "ESP",
+        "Date": 2018,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.142
+    },
+    {
+        "Country": "ESP",
+        "Date": 2019,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.147
+    },
+    {
+        "Country": "SWE",
+        "Date": 2018,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.087
+    },
+    {
+        "Country": "SWE",
+        "Date": 2019,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.091
+    },
+    {
+        "Country": "SWE",
+        "Date": 2020,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.088
+    },
+    {
+        "Country": "CHE",
+        "Date": 2018,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.105
+    },
+    {
+        "Country": "CHE",
+        "Date": 2019,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.099
+    },
+    {
+        "Country": "TUR",
+        "Date": 2018,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.144
+    },
+    {
+        "Country": "TUR",
+        "Date": 2019,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.15
+    },
+    {
+        "Country": "GBR",
+        "Date": 2018,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.117
+    },
+    {
+        "Country": "GBR",
+        "Date": 2019,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.124
+    },
+    {
+        "Country": "GBR",
+        "Date": 2020,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.112
+    },
+    {
+        "Country": "USA",
+        "Date": 2018,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.181
+    },
+    {
+        "Country": "USA",
+        "Date": 2019,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.18
+    },
+    {
+        "Country": "USA",
+        "Date": 2020,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.166
+    },
+    {
+        "Country": "USA",
+        "Date": 2021,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.151
+    },
+    {
+        "Country": "EST",
+        "Date": 2018,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.163
+    },
+    {
+        "Country": "EST",
+        "Date": 2019,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.149
+    },
+    {
+        "Country": "ISR",
+        "Date": 2018,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.169
+    },
+    {
+        "Country": "ISR",
+        "Date": 2019,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.173
+    },
+    {
+        "Country": "SVN",
+        "Date": 2018,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.075
+    },
+    {
+        "Country": "SVN",
+        "Date": 2019,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.074
+    },
+    {
+        "Country": "JPN",
+        "Date": 2018,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.157
+    },
+    {
+        "Country": "LVA",
+        "Date": 2018,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.175
+    },
+    {
+        "Country": "LVA",
+        "Date": 2019,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.162
+    },
+    {
+        "Country": "LVA",
+        "Date": 2020,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.169
+    },
+    {
+        "Country": "LTU",
+        "Date": 2018,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.155
+    },
+    {
+        "Country": "LTU",
+        "Date": 2019,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.154
+    },
+    {
+        "Country": "CRI",
+        "Date": 2018,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.209
+    },
+    {
+        "Country": "CRI",
+        "Date": 2019,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.199
+    },
+    {
+        "Country": "CRI",
+        "Date": 2020,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.205
+    },
+    {
+        "Country": "CRI",
+        "Date": 2021,
+        "Indicator": "Poverty Gap",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.203
+    }
+]

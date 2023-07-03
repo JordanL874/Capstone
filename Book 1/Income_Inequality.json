@@ -1,0 +1,716 @@
+[
+    {
+        "Country": "AUS",
+        "Date": 2018,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.325
+    },
+    {
+        "Country": "AUS",
+        "Date": 2020,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.318
+    },
+    {
+        "Country": "AUT",
+        "Date": 2018,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.28
+    },
+    {
+        "Country": "AUT",
+        "Date": 2019,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.274
+    },
+    {
+        "Country": "AUT",
+        "Date": 2020,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.272
+    },
+    {
+        "Country": "BEL",
+        "Date": 2018,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.258
+    },
+    {
+        "Country": "BEL",
+        "Date": 2019,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.262
+    },
+    {
+        "Country": "BEL",
+        "Date": 2020,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.248
+    },
+    {
+        "Country": "CAN",
+        "Date": 2018,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.304
+    },
+    {
+        "Country": "CAN",
+        "Date": 2019,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.3
+    },
+    {
+        "Country": "CAN",
+        "Date": 2020,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.28
+    },
+    {
+        "Country": "CZE",
+        "Date": 2018,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.249
+    },
+    {
+        "Country": "CZE",
+        "Date": 2019,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.248
+    },
+    {
+        "Country": "CZE",
+        "Date": 2020,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.255
+    },
+    {
+        "Country": "DNK",
+        "Date": 2018,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.263
+    },
+    {
+        "Country": "DNK",
+        "Date": 2019,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.268
+    },
+    {
+        "Country": "FIN",
+        "Date": 2018,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.269
+    },
+    {
+        "Country": "FIN",
+        "Date": 2019,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.273
+    },
+    {
+        "Country": "FIN",
+        "Date": 2020,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.265
+    },
+    {
+        "Country": "FIN",
+        "Date": 2021,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.273
+    },
+    {
+        "Country": "FRA",
+        "Date": 2018,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.301
+    },
+    {
+        "Country": "FRA",
+        "Date": 2019,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.292
+    },
+    {
+        "Country": "DEU",
+        "Date": 2018,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.289
+    },
+    {
+        "Country": "DEU",
+        "Date": 2019,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.296
+    },
+    {
+        "Country": "GRC",
+        "Date": 2018,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.306
+    },
+    {
+        "Country": "GRC",
+        "Date": 2019,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.312
+    },
+    {
+        "Country": "GRC",
+        "Date": 2020,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.32
+    },
+    {
+        "Country": "HUN",
+        "Date": 2018,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.28
+    },
+    {
+        "Country": "HUN",
+        "Date": 2019,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.286
+    },
+    {
+        "Country": "HUN",
+        "Date": 2020,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.28
+    },
+    {
+        "Country": "IRL",
+        "Date": 2018,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.292
+    },
+    {
+        "Country": "IRL",
+        "Date": 2019,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.293
+    },
+    {
+        "Country": "IRL",
+        "Date": 2020,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.282
+    },
+    {
+        "Country": "ITA",
+        "Date": 2018,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.33
+    },
+    {
+        "Country": "ITA",
+        "Date": 2019,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.325
+    },
+    {
+        "Country": "ITA",
+        "Date": 2020,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.331
+    },
+    {
+        "Country": "JPN",
+        "Date": 2018,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.334
+    },
+    {
+        "Country": "KOR",
+        "Date": 2018,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.345
+    },
+    {
+        "Country": "KOR",
+        "Date": 2019,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.339
+    },
+    {
+        "Country": "KOR",
+        "Date": 2020,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.331
+    },
+    {
+        "Country": "LUX",
+        "Date": 2018,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.318
+    },
+    {
+        "Country": "LUX",
+        "Date": 2019,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.305
+    },
+    {
+        "Country": "LUX",
+        "Date": 2020,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.29
+    },
+    {
+        "Country": "MEX",
+        "Date": 2018,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.418
+    },
+    {
+        "Country": "MEX",
+        "Date": 2020,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.42
+    },
+    {
+        "Country": "NLD",
+        "Date": 2018,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.295
+    },
+    {
+        "Country": "NLD",
+        "Date": 2019,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.312
+    },
+    {
+        "Country": "NLD",
+        "Date": 2020,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.295
+    },
+    {
+        "Country": "NLD",
+        "Date": 2021,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.297
+    },
+    {
+        "Country": "NZL",
+        "Date": 2018,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.33
+    },
+    {
+        "Country": "NZL",
+        "Date": 2019,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.326
+    },
+    {
+        "Country": "NZL",
+        "Date": 2020,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.32
+    },
+    {
+        "Country": "NOR",
+        "Date": 2018,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.262
+    },
+    {
+        "Country": "NOR",
+        "Date": 2019,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.261
+    },
+    {
+        "Country": "NOR",
+        "Date": 2020,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.263
+    },
+    {
+        "Country": "NOR",
+        "Date": 2021,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.285
+    },
+    {
+        "Country": "POL",
+        "Date": 2018,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.281
+    },
+    {
+        "Country": "POL",
+        "Date": 2019,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.268
+    },
+    {
+        "Country": "POL",
+        "Date": 2020,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.265
+    },
+    {
+        "Country": "PRT",
+        "Date": 2018,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.317
+    },
+    {
+        "Country": "PRT",
+        "Date": 2019,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.31
+    },
+    {
+        "Country": "PRT",
+        "Date": 2020,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.327
+    },
+    {
+        "Country": "SVK",
+        "Date": 2018,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.236
+    },
+    {
+        "Country": "SVK",
+        "Date": 2019,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.222
+    },
+    {
+        "Country": "ESP",
+        "Date": 2018,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.33
+    },
+    {
+        "Country": "ESP",
+        "Date": 2019,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.32
+    },
+    {
+        "Country": "ESP",
+        "Date": 2020,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.329
+    },
+    {
+        "Country": "SWE",
+        "Date": 2018,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.273
+    },
+    {
+        "Country": "SWE",
+        "Date": 2019,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.277
+    },
+    {
+        "Country": "SWE",
+        "Date": 2020,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.276
+    },
+    {
+        "Country": "SWE",
+        "Date": 2021,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.286
+    },
+    {
+        "Country": "CHE",
+        "Date": 2018,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.311
+    },
+    {
+        "Country": "CHE",
+        "Date": 2019,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.316
+    },
+    {
+        "Country": "TUR",
+        "Date": 2018,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.397
+    },
+    {
+        "Country": "TUR",
+        "Date": 2019,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.415
+    },
+    {
+        "Country": "GBR",
+        "Date": 2018,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.366
+    },
+    {
+        "Country": "GBR",
+        "Date": 2019,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.366
+    },
+    {
+        "Country": "GBR",
+        "Date": 2020,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.355
+    },
+    {
+        "Country": "USA",
+        "Date": 2018,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.393
+    },
+    {
+        "Country": "USA",
+        "Date": 2019,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.395
+    },
+    {
+        "Country": "USA",
+        "Date": 2020,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.377
+    },
+    {
+        "Country": "USA",
+        "Date": 2021,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.375
+    },
+    {
+        "Country": "EST",
+        "Date": 2018,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.305
+    },
+    {
+        "Country": "EST",
+        "Date": 2019,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.305
+    },
+    {
+        "Country": "EST",
+        "Date": 2020,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.305
+    },
+    {
+        "Country": "ISR",
+        "Date": 2018,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.348
+    },
+    {
+        "Country": "ISR",
+        "Date": 2019,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.342
+    },
+    {
+        "Country": "ISR",
+        "Date": 2020,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.34
+    },
+    {
+        "Country": "SVN",
+        "Date": 2018,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.249
+    },
+    {
+        "Country": "SVN",
+        "Date": 2019,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.246
+    },
+    {
+        "Country": "SVN",
+        "Date": 2020,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.238
+    },
+    {
+        "Country": "LVA",
+        "Date": 2018,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.351
+    },
+    {
+        "Country": "LVA",
+        "Date": 2019,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.344
+    },
+    {
+        "Country": "LVA",
+        "Date": 2020,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.355
+    },
+    {
+        "Country": "LVA",
+        "Date": 2021,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.343
+    },
+    {
+        "Country": "LTU",
+        "Date": 2018,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.361
+    },
+    {
+        "Country": "LTU",
+        "Date": 2019,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.357
+    },
+    {
+        "Country": "LTU",
+        "Date": 2020,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.357
+    },
+    {
+        "Country": "CRI",
+        "Date": 2018,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.479
+    },
+    {
+        "Country": "CRI",
+        "Date": 2019,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.478
+    },
+    {
+        "Country": "CRI",
+        "Date": 2020,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.497
+    },
+    {
+        "Country": "CRI",
+        "Date": 2021,
+        "Indicator": "Income Inequality",
+        "Subject": "GINI",
+        "Value": 0.487
+    }
+]

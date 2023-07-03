@@ -1,0 +1,183 @@
+Branch,TypeofExpenditure,COUNTRY,Year,UnitCode,Value in Millions
+Old age,Total,Australia,2000,USD,26705.0
+Old age,Total,Australia,2005,USD,31443.0
+Old age,Total,Australia,2010,USD,40639.0
+Old age,Total,Australia,2015,USD,57607.0
+Old age,Total,Australia,2019,USD,70166.0
+Old age,Total,Austria,2000,USD,24172.0
+Old age,Total,Austria,2005,USD,29224.0
+Old age,Total,Austria,2010,USD,37591.0
+Old age,Total,Austria,2015,USD,45626.0
+Old age,Total,Austria,2019,USD,52609.0
+Old age,Total,Belgium,2000,USD,19049.0
+Old age,Total,Belgium,2005,USD,23722.0
+Old age,Total,Belgium,2010,USD,31879.0
+Old age,Total,Belgium,2015,USD,44016.0
+Old age,Total,Belgium,2019,USD,52954.0
+Old age,Total,Canada,2000,USD,31802.0
+Old age,Total,Canada,2005,USD,39584.0
+Old age,Total,Canada,2010,USD,50288.0
+Old age,Total,Canada,2015,USD,66305.0
+Old age,Total,Canada,2019,USD,81752.0
+Old age,Total,Canada,2020,USD,85505.0
+Old age,Total,Czech Republic,2000,USD,7121.0
+Old age,Total,Czech Republic,2005,USD,9414.0
+Old age,Total,Czech Republic,2010,USD,13879.0
+Old age,Total,Czech Republic,2015,USD,16234.0
+Old age,Total,Czech Republic,2019,USD,20373.0
+Old age,Total,Denmark,2000,USD,15895.0
+Old age,Total,Denmark,2005,USD,19589.0
+Old age,Total,Denmark,2010,USD,24414.0
+Old age,Total,Denmark,2015,USD,29621.0
+Old age,Total,Denmark,2019,USD,35016.0
+Old age,Total,Finland,2000,USD,10831.0
+Old age,Total,Finland,2005,USD,14572.0
+Old age,Total,Finland,2010,USD,20505.0
+Old age,Total,Finland,2015,USD,28238.0
+Old age,Total,Finland,2019,USD,33249.0
+Old age,Total,France,2000,USD,164901.0
+Old age,Total,France,2005,USD,204237.0
+Old age,Total,France,2010,USD,259459.0
+Old age,Total,France,2015,USD,301342.0
+Old age,Total,France,2019,USD,328194.0
+Old age,Total,France,2020,USD,335688.0
+Old age,Total,Germany,2000,USD,193714.0
+Old age,Total,Germany,2005,USD,223184.0
+Old age,Total,Germany,2010,USD,243959.0
+Old age,Total,Germany,2015,USD,278140.0
+Old age,Total,Germany,2019,USD,328513.0
+Old age,Total,Greece,2000,USD,13012.0
+Old age,Total,Greece,2005,USD,20671.0
+Old age,Total,Greece,2010,USD,29197.0
+Old age,Total,Greece,2015,USD,28331.0
+Old age,Total,Greece,2019,USD,26650.0
+Old age,Total,Hungary,2000,USD,2654.0
+Old age,Total,Hungary,2005,USD,5001.0
+Old age,Total,Hungary,2010,USD,7009.0
+Old age,Total,Hungary,2015,USD,8545.0
+Old age,Total,Hungary,2019,USD,9979.0
+Old age,Total,Iceland,2000,USD,177.0
+Old age,Total,Iceland,2005,USD,288.0
+Old age,Total,Iceland,2010,USD,242.0
+Old age,Total,Iceland,2015,USD,409.0
+Old age,Total,Iceland,2019,USD,731.0
+Old age,Total,Ireland,2000,USD,2826.0
+Old age,Total,Ireland,2005,USD,5091.0
+Old age,Total,Ireland,2010,USD,8957.0
+Old age,Total,Ireland,2015,USD,10284.0
+Old age,Total,Ireland,2019,USD,12122.0
+Old age,Total,Italy,2000,USD,151417.0
+Old age,Total,Italy,2005,USD,185860.0
+Old age,Total,Italy,2010,USD,228986.0
+Old age,Total,Italy,2015,USD,245679.0
+Old age,Total,Italy,2019,USD,263358.0
+Old age,Total,Japan,2000,USD,237285.0
+Old age,Total,Japan,2005,USD,290248.0
+Old age,Total,Japan,2010,USD,336126.0
+Old age,Total,Japan,2015,USD,308068.0
+Old age,Total,Japan,2019,USD,321126.0
+Old age,Total,Japan,2020,USD,323920.0
+Old age,Total,Korea,2000,USD,4.0
+Old age,Total,Korea,2005,USD,7.0
+Old age,Total,Korea,2010,USD,14.0
+Old age,Total,Korea,2015,USD,24.0
+Old age,Total,Korea,2019,USD,34.0
+Old age,Total,Korea,2020,USD,38.0
+Old age,Total,Luxembourg,2000,USD,1663.0
+Old age,Total,Luxembourg,2005,USD,1842.0
+Old age,Total,Luxembourg,2010,USD,2606.0
+Old age,Total,Luxembourg,2015,USD,3780.0
+Old age,Total,Luxembourg,2019,USD,4829.0
+Old age,Total,Mexico,2000,USD,2057.0
+Old age,Total,Mexico,2005,USD,4723.0
+Old age,Total,Mexico,2010,USD,11185.0
+Old age,Total,Mexico,2015,USD,22043.0
+Old age,Total,Mexico,2019,USD,43121.0
+Old age,Total,Netherlands,2000,USD,23997.0
+Old age,Total,Netherlands,2005,USD,30943.0
+Old age,Total,Netherlands,2010,USD,39341.0
+Old age,Total,Netherlands,2015,USD,45771.0
+Old age,Total,Netherlands,2019,USD,51572.0
+Old age,Total,New Zealand,2000,USD,3220.0
+Old age,Total,New Zealand,2005,USD,3916.0
+Old age,Total,New Zealand,2010,USD,5414.0
+Old age,Total,New Zealand,2015,USD,7504.0
+Old age,Total,New Zealand,2019,USD,9495.0
+Old age,Total,New Zealand,2020,USD,10127.0
+Old age,Total,New Zealand,2021,USD,10821.0
+Old age,Total,Norway,2000,USD,8996.0
+Old age,Total,Norway,2005,USD,11478.0
+Old age,Total,Norway,2010,USD,16917.0
+Old age,Total,Norway,2015,USD,24970.0
+Old age,Total,Norway,2019,USD,30821.0
+Old age,Total,Poland,2000,USD,15832.0
+Old age,Total,Poland,2005,USD,22893.0
+Old age,Total,Poland,2010,USD,33052.0
+Old age,Total,Poland,2015,USD,41572.0
+Old age,Total,Poland,2019,USD,53624.0
+Old age,Total,Portugal,2000,USD,9208.0
+Old age,Total,Portugal,2005,USD,14884.0
+Old age,Total,Portugal,2010,USD,20290.0
+Old age,Total,Portugal,2015,USD,22673.0
+Old age,Total,Portugal,2019,USD,25043.0
+Old age,Total,Slovakia,2000,USD,1923.0
+Old age,Total,Slovakia,2005,USD,3060.0
+Old age,Total,Slovakia,2010,USD,4585.0
+Old age,Total,Slovakia,2015,USD,5815.0
+Old age,Total,Slovakia,2019,USD,6827.0
+Old age,Total,Spain,2000,USD,46755.0
+Old age,Total,Spain,2005,USD,64346.0
+Old age,Total,Spain,2010,USD,90044.0
+Old age,Total,Spain,2015,USD,108902.0
+Old age,Total,Spain,2019,USD,129941.0
+Old age,Total,Sweden,2000,USD,18661.0
+Old age,Total,Sweden,2005,USD,23951.0
+Old age,Total,Sweden,2010,USD,29723.0
+Old age,Total,Sweden,2015,USD,36322.0
+Old age,Total,Sweden,2019,USD,42673.0
+Old age,Total,Switzerland,2000,USD,29388.0
+Old age,Total,Switzerland,2005,USD,33400.0
+Old age,Total,Switzerland,2010,USD,40415.0
+Old age,Total,Switzerland,2015,USD,46451.0
+Old age,Total,Switzerland,2019,USD,50536.0
+Old age,Total,Turkey,2000,USD,207.0
+Old age,Total,Turkey,2005,USD,1257.0
+Old age,Total,Turkey,2010,USD,2797.0
+Old age,Total,Turkey,2015,USD,5207.0
+Old age,Total,Turkey,2019,USD,10260.0
+Old age,Total,United Kingdom,2000,USD,87271.0
+Old age,Total,United Kingdom,2005,USD,121855.0
+Old age,Total,United Kingdom,2010,USD,172969.0
+Old age,Total,United Kingdom,2015,USD,200858.0
+Old age,Total,United Kingdom,2019,USD,202296.0
+Old age,Total,United Kingdom,2020,USD,207574.0
+Old age,Total,USA,2000,USD,495051.958
+Old age,Total,USA,2005,USD,649746.227
+Old age,Total,USA,2010,USD,879060.848
+Old age,Total,USA,2015,USD,1151475.579
+Old age,Total,USA,2019,USD,1376939.823
+Old age,Total,USA,2020,USD,1448590.116
+Old age,Total,Chile,2000,USD,1992.0
+Old age,Total,Chile,2005,USD,2363.0
+Old age,Total,Chile,2010,USD,3599.0
+Old age,Total,Chile,2015,USD,4499.0
+Old age,Total,Chile,2019,USD,5443.0
+Old age,Total,Chile,2020,USD,6229.0
+Old age,Total,Chile,2021,USD,7657.0
+Old age,Total,Estonia,2000,USD,397.0
+Old age,Total,Estonia,2005,USD,650.0
+Old age,Total,Estonia,2010,USD,1217.0
+Old age,Total,Estonia,2015,USD,1560.0
+Old age,Total,Estonia,2019,USD,2000.0
+Old age,Total,Israel,2000,USD,6513.0
+Old age,Total,Israel,2005,USD,7994.0
+Old age,Total,Israel,2010,USD,11140.0
+Old age,Total,Israel,2015,USD,15161.0
+Old age,Total,Israel,2019,USD,18861.0
+Old age,Total,Israel,2020,USD,20267.0
+Old age,Total,Israel,2021,USD,21549.0
+Old age,Total,Slovenia,2000,USD,2054.0
+Old age,Total,Slovenia,2005,USD,2982.0
+Old age,Total,Slovenia,2010,USD,3731.0
+Old age,Total,Slovenia,2015,USD,4143.0
+Old age,Total,Slovenia,2019,USD,4725.0

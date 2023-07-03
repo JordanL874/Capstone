@@ -1,0 +1,949 @@
+<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="/Users/jordanlouise/Code/SavvyCoders/Capstone/Data Sets/In Progress/Social Expenditures/Book 1/Social_Expenditures.db" readonly="0" foreign_keys="1" case_sensitive_like="0" temp_store="0" wal_autocheckpoint="1000" synchronous="2"/><attached/><window><main_tabs open="structure browser pragmas query" current="1"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="100"/><column_width id="3" width="780"/><column_width id="4" width="0"/><expanded_item id="0" parent="1"/><expanded_item id="1" parent="1"/><expanded_item id="2" parent="1"/><expanded_item id="3" parent="1"/></tab_structure><tab_browse><current_table name="4,15:mainFamily_Benefits"/><default_encoding codec=""/><browse_table_settings><table schema="main" name="Family_Benefits" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort><column index="3" mode="0"/></sort><column_widths><column index="1" value="44"/><column index="2" value="45"/><column index="3" value="106"/><column index="4" value="40"/><column index="5" value="60"/><column index="6" value="112"/><column index="7" value="139"/><column index="8" value="105"/><column index="9" value="67"/><column index="10" value="81"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Healthcare" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort><column index="7" mode="0"/></sort><column_widths><column index="1" value="113"/><column index="2" value="116"/><column index="3" value="86"/><column index="4" value="225"/><column index="5" value="80"/><column index="6" value="182"/><column index="7" value="65"/><column index="8" value="202"/><column index="9" value="62"/><column index="10" value="50"/><column index="11" value="37"/><column index="12" value="37"/><column index="13" value="71"/><column index="14" value="63"/><column index="15" value="259"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Labor Market" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="44"/><column index="2" value="174"/><column index="3" value="106"/><column index="4" value="40"/><column index="5" value="60"/><column index="6" value="37"/><column index="7" value="56"/><column index="8" value="105"/><column index="9" value="67"/><column index="10" value="72"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Labor_Market" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort><column index="2" mode="1"/></sort><column_widths><column index="1" value="44"/><column index="2" value="117"/><column index="3" value="106"/><column index="4" value="40"/><column index="5" value="60"/><column index="6" value="101"/><column index="7" value="56"/><column index="8" value="105"/><column index="9" value="67"/><column index="10" value="72"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Pensions" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort><column index="3" mode="0"/></sort><column_widths><column index="1" value="44"/><column index="2" value="49"/><column index="3" value="106"/><column index="4" value="40"/><column index="5" value="60"/><column index="6" value="101"/><column index="7" value="56"/><column index="8" value="105"/><column index="9" value="67"/><column index="10" value="85"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table></browse_table_settings></tab_browse><tab_sql><sql name="SQL 1">-- SELECT *
+-- FROM EVCharging
+-- 
+-- SELECT round(avg(chargeTimeHrs), 2) as 'avghourscharging'
+-- FROM EVCharging
+-- 
+-- SELECT round(sum(chargetimeHrs), 2) as 'totalchargetime'
+-- FROM EVCharging
+-- 
+-- SELECT sum(chargeTimeHrs) as sumChargeTime	
+-- FROM EVCharging
+
+-- SELECT userId, ROUND(avg(kwhTotal),2) as 'avgpower'
+-- FROM EVCharging
+-- GROUP BY userId; 
+-- 
+-- SELECT locationId, ROUND(sum(),2) as 'totalpowerKWH'
+-- FROM EVCharging
+-- GROUP BY locationId
+-- LIMIT DESC 10
+
+-- SELECT userId,
+-- sum(chargeTimeHrs) as 'totalTimeHr',
+-- sum(kwhTotal) as  'totalPwrKWH'
+-- FROM EVCharging
+-- GROUP BY userId
+-- ORDER BY DESC kwhTotal
+-- LIMIT 5;
+
+-- SELECT userId, weekday
+-- ROUND(sum(chargeTimeHrs),2) as 'totalTimeHr',
+-- ROUND(sum(kwhTotal),2) as  'totalPwrKWH'
+-- FROM EVCharging
+-- WHERE weekday = 'Thu'
+-- GROUP BY userId, weekday
+-- ORDER BY 3 DESC ; 
+-- LIMIT 25;
+
+SELECT d.dayOfWeek as 'dayofWeek',
+ROUND(AVG(f.chargeTimeHrs),2) as 'avgTotalHrs',
+FROM factCharge f
+______ JOIN dimDay d 
+ON f.______ = d.________
+GROUP BY dayOfWeek
+ORDER BY DESC avgChargeTime;
+
+SELECT u.______ as 'appPlatform',
+____(f._______),2) as 'numCharges',
+FROM factCharge f
+______ ______ _____ u
+ON f.______ = u.________
+GROUP BY u.________
+ORDER BY ____(_______) _____;</sql><sql name="SQL 2">-- SELECT ModelYear, Make, Model
+-- FROM EVRegistry
+
+-- SELECT DISTINCT ElectricVehicleType
+-- FROM EVRegistry
+
+-- SELECT *
+-- from EVRegistry
+-- WHERE 
+-- 				ElectricVehicleType like 'Battery Electric Vehicle (BEV)'
+
+-- SELECT Make, Model
+-- FROM EVRegistry
+-- WHERE BaseMSRP BETWEEN 20000 AND 35000
+
+-- SELECT City
+-- from EVRegistry
+-- WHERE City is NULL
+
+-- SELECT Make, Model, ElectricVehicleType
+-- from EVRegistry
+-- WHERE VIN like  '3E1EA1J%'
+
+-- SELECT Model, Make, ModelYear, ElectricVehicleType, ElectricRange
+-- from EVRegistry
+-- WHERE Make like 'Tesla' 
+-- AND Make like 'chevrolet'
+-- ORDER BY Make, Model DESC
+
+-- SELECT stationId, count(userId)
+-- FROM EVCharging
+-- group by stationId
+-- order by 2 DESC
+-- LIMIT 5
+
+-- SELECT userId, min(chargeTimeHrs) as minTime, max(chargeTimeHrs) as maxTime
+-- from EVCharging
+-- GROUP by userId HAVING minTime &gt; 0.5
+-- order by	2, 3
+
+-- select weekday, ROUND(avg(chargeTimeHrs),2) as 'HighestAVG'
+-- from EVCharging
+-- group by weekday
+-- order by 2 DESC
+-- 
+-- SELECT userId, round(sum(kwhTotal), 2) as 'totalPower'
+-- from EVCharging
+-- group by userId
+-- order by 2 DESC
+-- LIMIT 15
+
+-- SELECT facilityID, df.typeFacility, count(distinct fc.stationId) as 'numStation' 
+-- FROM dimFacility df INNER JOIN factCharge fc on df.FacilityKey = fc.facilityID
+-- group by df.FacilityKey
+-- order by 3 desc
+
+-- SELECT userId, min(chargeTimeHrs) as minTime, max(chargeTimeHrs) as maxTime
+-- FROM EVCharging
+-- group by userId HAVING chargeTimeHrs &gt; 1
+-- ORDER by 2, 3 DESC
+
+
+
+</sql><sql name="SQL 5">SELECT Accel FROM evCars
+-- 
+-- update evCars SET Accel = rtrim(accel, 'sec')
+
+-- ALTER TABLE evCars 
+-- RENAME Accel TO accelSec
+
+-- SELECT TopSpeed from evCars
+
+-- SELECT TopSpeed, rtrim(TopSpeed, 'km/h')
+-- FROM evCars
+
+-- UPDATE evCars set TopSpeed = rtrim(TopSpeed, 'km/h')
+
+-- SELECT TopSpeed, round(TopSpeed * 0.62137119, 1)
+-- FROM evCars 
+
+-- UPDATE evCars 
+-- SET 
+--     TopSpeed = round(TopSpeed * 0.62137119, 1)
+
+-- ALTER TABLE evCars 
+-- RENAME TopSpeed TO topSpeedMPH
+
+-- SELECT Range
+-- FROM evCars 
+
+-- SELECT Range, rtrim(range, 'km')
+-- from evCars
+
+-- UPDATE evCars
+-- SET Range = rtrim(range, 'km')
+
+-- SELECT Range, round(Range * 0.62137119, 1)
+-- FROM evCars 
+
+-- UPDATE evCars 
+-- SET 
+-- Range = round(Range * 0.62137119, 1)
+
+-- ALTER TABLE evCars
+-- RENAME Range TO rangeMPH
+
+-- SELECT Efficiency, rtrim(efficiency, 'Wh/km'), FastCharge, rtrim(FastCharge, 'km/h')
+-- from evCars
+
+-- UPDATE evCars 
+-- SET 
+-- Efficiency = rtrim(Efficiency, 'Wh/km'), 
+-- FastCharge = rtrim(FastCharge, 'km/h')
+
+-- SELECT FastCharge, round(FastCharge * 0.62137119, 1)
+-- FROM evCars 
+
+-- UPDATE evCars 
+-- SET 
+-- FastCharge = round(FastCharge * 0.62137119, 1)
+-- 
+-- alter TABLE evCars
+-- RENAME FastCharge to OneHourFastChargeMiles
+
+-- ALTER TABLE evCars
+-- RENAME Efficiency to efficiencyWHperKM
+-- SELECT RapidCharge, Count(*)
+-- FROM evCars
+-- GROUP BY RapidCharge
+
+-- UPDATE evCars
+-- SET RapidCharge = 'no'
+-- WHERE RapidCharge = 'Rapid charging not possible'
+
+-- UPDATE evCars
+-- SET RapidCharge = 'yes'
+-- WHERE RapidCharge = 'Rapid charging possible'
+
+--  SELECT PowerTrain, Count(*)
+-- FROM evCars
+-- GROUP BY PowerTrain
+
+-- UPDATE evCars
+-- SET PowerTrain = 'AWD'
+-- WHERE PowerTrain = 'All Wheel Drive'
+
+-- UPDATE evCars
+-- SET PowerTrain = 'FWD'
+-- WHERE PowerTrain = 'Front Wheel Drive'
+-- 
+-- UPDATE evCars
+-- SET PowerTrain = 'RWD'
+-- WHERE PowerTrain = 'Rear Wheel Drive'
+
+-- select PriceEuro from evCars
+
+-- SELECT PriceEuro, round(PriceEuro * 1.09, 2)
+-- FROM evCars 
+
+-- UPDATE evCars
+-- SET PriceEuro = round(PriceEuro * 1.09, 2)
+
+ALTER TABLE evCars
+RENAME PriceEuro to PriceUSD
+
+
+
+
+</sql><sql name="SQL 6">-- alter TABLE Poverty_Gap
+--  DROP COLUMN FlagCodes
+
+-- ALTER TABLE Poverty_Gap
+-- RENAME COLUMN LOCATION to Country
+
+-- ALTER TABLE Poverty_Gap
+-- RENAME COLUMN time to Date
+-- 
+-- ALTER TABLE Poverty_Gap
+-- RENAME COLUMN MEASURE to Measure
+-- 
+-- ALTER TABLE Poverty_Gap
+-- RENAME COLUMN SUBJECT to Subject
+
+-- ALTER TABLE Poverty_Gap
+-- RENAME COLUMN INDICATOR to Indicator
+-- 
+-- UPDATE Poverty_Gap
+-- set Indicator = replace('POVERTYGAP', 'POVERTYGAP', 'Poverty Gap')
+-- 
+--  UPDATE Poverty_Gap
+--  set Measure = replace('RT', 'RT', 'Ratio')
+-- 
+-- ALTER TABLE Poverty_Gap
+-- DROP COLUMN Frequency
+
+-- alter TABLE Poverty_Rate
+-- DROP COLUMN FlagCodes
+
+-- ALTER TABLE Poverty_Rate
+-- RENAME COLUMN LOCATION to Country
+
+-- ALTER TABLE Poverty_Rate
+-- RENAME COLUMN time to Date
+
+-- ALTER TABLE Poverty_Rate
+-- RENAME COLUMN MEASURE to Measure
+-- 
+-- ALTER TABLE Poverty_Rate
+-- RENAME COLUMN SUBJECT to Subject
+
+-- ALTER TABLE Poverty_Rate
+-- RENAME COLUMN INDICATOR to Indicator
+
+-- UPDATE Poverty_Rate
+-- set Indicator = replace('POVERTYGAP', 'POVERTYGAP', 'Poverty Rate')
+-- 
+-- UPDATE Poverty_Rate
+-- set Measure = replace('RT', 'RT', 'Ratio')
+-- 
+-- ALTER TABLE Poverty_Rate
+-- DROP COLUMN Frequency
+
+-- UPDATE Poverty_Gap
+-- SET Subject = replace(subject, 'TOT',  'Total')
+-- 
+-- UPDATE Poverty_Rate
+-- SET Subject = replace(subject, 'TOT',  'Total')
+
+-- UPDATE Poverty_Rate
+-- SET Subject = replace(subject, '66MORE',  '66+')
+
+-- SELECT count(*)
+-- FROM Poverty_Rate
+-- WHERE max(country, Indicator, subject, Measure, date, Value) is NULL
+
+-- DELETE FROM Poverty_Rate WHERE Country IS NULL
+
+--  UPDATE Poverty_Gap
+-- set Subject = replace(subject, '66MORE', '66+')  
+
+</sql><sql name="SQL 15">-- SELECT distinct branch
+-- from Pensions
+-- 
+-- delete from Pensions
+-- where Branch is not 'Old age'
+
+-- alter TABLE Pensions
+-- drop COLUMN UNIT1
+-- 
+-- delete FROM Pensions
+-- where Year&lt;2000
+
+-- SELECT DISTINCT PowerCode
+-- FROM Pensions
+-- 
+-- ALTER TABLE Pensions
+-- drop COLUMN PowerCode
+-- 
+-- ALTER TABLE Pensions
+-- rename COLUMN Value to 'Value in Millions'
+
+-- ALTER TABLE Pensions
+-- drop COLUMN Source
+
+-- SELECT DISTINCT Source
+-- from Labor_Market
+
+-- delete from Labor_Market
+-- where Source is NULL
+-- 
+-- ALTER TABLE Labor_Market
+-- drop COLUMN Source
+
+-- alter TABLE Labor_Market
+-- drop COLUMN UNIT1
+
+-- SELECT DISTINCT PowerCode
+-- from Labor_Market
+
+-- alter TABLE Labor_Market
+-- drop COLUMN PowerCode
+
+-- ALTER TABLE Labor_Market
+-- rename COLUMN Value to 'Value in Millions'
+
+-- delete from  Labor_Market
+-- where Year&lt;2000
+
+-- UPDATE Labor_Market
+-- SET Country = replace(country, 'AUS', 'Australia')
+-- 
+-- delete from Labor_Market
+-- where `Value in millions` is NULL
+
+-- DELETE from Labor_Market
+-- where `value in millions` is 0
+
+-- UPDATE Labor_Market
+-- set `value in millions` = round(`value in millions`*0.67, 2)
+-- where Country = 'Australia'
+
+-- alter TABLE Family_Benefits
+-- drop COLUMN PowerCode
+
+-- ALTER TABLE Family_Benefits
+-- RENAME COLUMN Value to 'Value in Millions'
+
+-- DELETE FROM Family_Benefits
+-- where Year&lt;2000 
+
+-- delete from Family_Benefits
+-- where `value in millions` is 0
+
+-- delete from Pensions
+-- where `value in millions` is 0
+
+-- SELECT DISTINCT Financingscheme
+-- from Healthcare
+
+-- delete from Healthcare
+-- where Financingscheme is not 'Government/compulsory schemes'
+
+-- SELECT DISTINCT Provider	
+-- from Healthcare
+
+-- ALTER TABLE Healthcare
+-- DROP COLUMN Function
+
+-- select DISTINCT Function
+-- from Healthcare
+
+-- delete from Healthcare
+-- where Year&lt;2000
+
+-- select DISTINCT Measure
+-- from Healthcare
+
+-- select DISTINCT(count(Measure))
+-- from Healthcare
+-- where measure like 'Share of gross domestic product' 
+
+-- delete from Healthcare
+-- where measure is not 'Share of gross domestic product'
+
+-- delete from Healthcare
+-- where Country like 'south africa'
+
+-- select DISTINCT Country
+-- FROM Family_Benefits
+
+-- UPDATE Family_Benefits
+-- set Country = replace(country, 'CHE', 'Switzerland')
+
+--  UPDATE Family_Benefits
+-- set Country = replace(country, 'TUR', 'Turkey')
+
+--  UPDATE Family_Benefits
+-- set Country = replace(country, 'GBR', 'United Kingdom')
+
+--  UPDATE Family_Benefits
+-- set Country = replace(country, 'CHL', 'Chile')
+-- 
+--  UPDATE Family_Benefits
+-- set Country = replace(country, 'EST', 'Estonia')
+
+--  UPDATE Family_Benefits
+-- set Country = replace(country, 'ISL', 'Iceland')
+
+--  UPDATE Family_Benefits
+-- set Country = replace(country, 'ISR', 'Israel')
+
+--  UPDATE Family_Benefits
+-- set Country = replace(country, 'Irelandl', 'Ireland')
+
+--  UPDATE Family_Benefits
+-- set Country = replace(country, 'TUR', 'Turkey')
+-- 
+-- select DISTINCT Country
+-- from Family_Benefits
+
+-- UPDATE Family_Benefits
+-- set Country = 'Iceland'
+-- where Unit = 'Iceland Krona'
+
+-- alter TABLE Healthcare
+-- DROP LOCATION
+
+-- UPDATE Pensions
+-- set Country = replace(country, 'AUS', 'Australia')
+-- 
+-- UPDATE Pensions
+-- set Country = replace(country, 'AUT', 'Austria')
+
+-- UPDATE Pensions
+-- set Country = replace(country, 'BEL', 'Belgium')
+
+-- UPDATE Pensions
+-- set Country = replace(country, 'CAN', 'Canada')
+-- 
+-- UPDATE Pensions
+-- set Country = replace(country, 'CZE', 'Czech Republic')
+-- 
+-- UPDATE Pensions
+-- set Country = replace(country, 'DNK', 'Denmark')
+-- 
+-- UPDATE Pensions
+-- set Country = replace(country, 'FIN', 'Finland')
+
+-- UPDATE Pensions
+-- set Country = replace(country, 'FRA', 'France')
+
+-- UPDATE Pensions
+-- set Country = replace(country, 'DEU', 'Germany')
+
+-- UPDATE Pensions
+-- set Country = replace(country, 'GRC', 'Greece')
+
+-- UPDATE Pensions
+-- set Country = replace(country, 'HUN', 'Hungary')
+
+-- UPDATE Pensions
+-- set Country = replace(country, 'ISL', 'Iceland')
+
+-- UPDATE Pensions
+-- set Country = replace(country, 'IRL', 'Ireland')
+
+-- UPDATE Pensions
+-- set Country = replace(country, 'ITA', 'Italy')
+
+-- UPDATE Pensions
+-- set Country = replace(country, 'JPN', 'Japan')
+
+-- UPDATE Pensions
+-- set Country = replace(country, 'KOR', 'Korea')
+
+-- UPDATE Pensions
+-- set Country = replace(country, 'LUX', 'Luxembourg')
+
+-- UPDATE Pensions
+-- set Country = replace(country, 'MEX', 'Mexico')
+
+-- UPDATE Pensions
+-- set Country = replace(country, 'NLD', 'Netherlands')
+
+-- UPDATE Pensions
+-- set Country = replace(country, 'NZL', 'New Zealand')
+
+-- UPDATE Pensions
+-- set Country = replace(country, 'NOR', 'Norway')
+
+-- UPDATE Pensions
+-- set Country = replace(country, 'POL', 'Poland')
+-- 
+-- UPDATE Pensions
+-- set Country = replace(country, 'PRT', 'Portugal')
+
+-- UPDATE Pensions
+-- set Country = replace(country, 'SVK', 'Slovakia')
+
+-- UPDATE Pensions
+-- set Country = replace(country, 'ESP', 'Spain')
+
+-- UPDATE Pensions
+-- set Country = replace(country, 'SWE', 'Sweden')
+
+-- UPDATE Pensions
+-- set Country = replace(country, 'CHE', 'Switzerland')
+
+--  UPDATE Pensions
+-- set Country = replace(country, 'TUR', 'Turkey')
+
+--  UPDATE Pensions
+-- set Country = replace(country, 'GBR', 'United Kingdom')
+
+--  UPDATE Pensions
+-- set Country = replace(country, 'CHL', 'Chile')
+-- 
+--  UPDATE Pensions
+-- set Country = replace(country, 'EST', 'Estonia')
+
+--  UPDATE Pensions
+-- set Country = replace(country, 'ISR', 'Israel')
+
+-- UPDATE Pensions
+-- set Country = replace(country, 'SVN', 'Slovenia')
+
+-- SELECT `value in millions`, round(`value in millions` * 0.67)
+-- FROM Family_Benefits 
+-- where UnitCode = 'AUD'
+
+-- UPDATE Pensions
+-- set 
+--     `value in millions` = round(`value in millions` * 0.67)
+-- 	where UnitCode = 'AUD'
+
+-- select DISTINCT UnitCode
+-- from Family_Benefits
+
+--  SELECT `value in millions`, round(`value in millions` * 1.09)
+-- FROM Family_Benefits 
+-- where UnitCode = 'EUR'
+
+-- UPDATE Pensions
+-- set 
+--     `value in millions` = round(`value in millions` * 1.09)
+-- 	where UnitCode = 'EUR'
+	
+-- UPDATE Family_Benefits
+-- set 
+--     `value in millions` = round(`value in millions` * 1.09)
+-- 	where UnitCode = 'EUR'
+
+-- UPDATE Labor_Market
+-- set 
+--     `value in millions` = round(`value in millions` * 1.09)
+-- 	where UnitCode = 'EUR'
+
+-- UPDATE Family_Benefits
+-- set 
+--     `value in millions` = round(`value in millions` * 0.76)
+-- 	where UnitCode = 'CAD'
+	
+-- UPDATE Labor_Market
+-- set 
+--     `value in millions` = round(`value in millions` * 0.76)
+-- 	where UnitCode = 'CAD'
+
+-- UPDATE Pensions
+-- set 
+--     `value in millions` = round(`value in millions` * 0.76)
+-- 	where UnitCode = 'CAD'
+
+-- UPDATE Labor_Market
+-- set 
+--     `value in millions` = round(`value in millions` * 0.046)
+-- 	where UnitCode = 'CZK'
+	
+-- UPDATE Pensions
+-- set 
+--     `value in millions` = round(`value in millions` * 0.046)
+-- 	where UnitCode = 'CZK'
+
+-- UPDATE Family_Benefits
+-- set 
+--     `value in millions` = round(`value in millions` * 0.046)
+-- 	where UnitCode = 'CZK'
+
+-- UPDATE Labor_Market
+-- set 
+--     `value in millions` = round(`value in millions` * 0.15)
+-- 	where UnitCode = 'DKK'
+
+-- UPDATE Pensions
+-- set 
+--     `value in millions` = round(`value in millions` * 0.15)
+-- 	where UnitCode = 'DKK'
+
+-- UPDATE Family_Benefits
+-- set 
+--     `value in millions` = round(`value in millions` * 0.15)
+-- 	where UnitCode = 'DKK'
+
+-- UPDATE Labor_Market
+-- set 
+--     `value in millions` = round(`value in millions` * 0.0029)
+-- 	where UnitCode = 'HUF'
+
+-- UPDATE Pensions
+-- set 
+--     `value in millions` = round(`value in millions` * 0.0029)
+-- 	where UnitCode = 'HUF'
+
+-- UPDATE Family_Benefits
+-- set 
+--     `value in millions` = round(`value in millions` * 0.0029)
+-- 	where UnitCode = 'HUF'
+
+-- UPDATE Labor_Market
+-- set 
+--     `value in millions` = round(`value in millions` * 0.0074)
+-- 	where UnitCode = 'ISK'
+
+-- UPDATE Pensions
+-- set 
+--     `value in millions` = round(`value in millions` * 0.0074)
+-- 	where UnitCode = 'ISK'
+
+-- UPDATE Family_Benefits
+-- set 
+--     `value in millions` = round(`value in millions` * 0.0074)
+-- 	where UnitCode = 'ISK'
+
+-- UPDATE Labor_Market
+-- set 
+--     `value in millions` = round(`value in millions` * 0.0069)
+-- 	where UnitCode = 'JPY'
+
+-- UPDATE Pensions
+-- set 
+--     `value in millions` = round(`value in millions` * 0.0069)
+-- 	where UnitCode = 'JPY'
+
+-- UPDATE Family_Benefits
+-- set 
+--     `value in millions` = round(`value in millions` * 0.0069)
+-- 	where UnitCode = 'JPY'
+
+-- UPDATE Labor_Market
+-- set 
+--     `value in millions` = round(`value in millions` * 0.00076)
+-- 	where UnitCode = 'KRW'
+	
+-- UPDATE Pensions
+-- set 
+--     `value in millions` = round(`value in millions` * 0.00076)
+-- 	where UnitCode = 'KRW'
+
+-- UPDATE Family_Benefits
+-- set 
+--     `value in millions` = round(`value in millions` * 0.00076)
+-- 	where UnitCode = 'KRW'
+
+-- UPDATE Pensions
+-- set 
+--     `value in millions` = round(`value in millions` * 0.058)
+-- 	where UnitCode = 'MXN'
+-- 
+-- UPDATE Family_Benefits
+-- set 
+--     `value in millions` = round(`value in millions` * 0.058)
+-- 	where UnitCode = 'MXN'
+
+-- UPDATE Labor_Market
+-- set 
+--     `value in millions` = round(`value in millions` * 0.058)
+-- 	where UnitCode = 'MXN'
+
+-- UPDATE Pensions
+-- set 
+--     `value in millions` = round(`value in millions` * 0.61)
+-- 	where UnitCode = 'NZD'
+-- 	
+-- UPDATE Family_Benefits
+-- set 
+--     `value in millions` = round(`value in millions` * 0.61)
+-- 	where UnitCode = 'NZD'
+
+-- UPDATE Labor_Market
+-- set 
+--     `value in millions` = round(`value in millions` * 0.61)
+-- 	where UnitCode = 'NZD'
+
+-- UPDATE Pensions
+-- set 
+--     `value in millions` = round(`value in millions` * 0.093)
+-- 	where UnitCode = 'NOK'
+
+-- UPDATE Family_Benefits
+-- set 
+--     `value in millions` = round(`value in millions` * 0.093)
+-- 	where UnitCode = 'NOK'
+
+-- UPDATE Labor_Market
+-- set 
+--     `value in millions` = round(`value in millions` * 0.093)
+-- 	where UnitCode = 'NOK'
+
+-- UPDATE Pensions
+-- set 
+--     `value in millions` = round(`value in millions` * 0.25)
+-- 	where UnitCode = 'PLN'
+
+-- UPDATE Family_Benefits
+-- set 
+--     `value in millions` = round(`value in millions` * 0.25)
+-- 	where UnitCode = 'PLN'
+
+-- UPDATE Labor_Market
+-- set 
+--     `value in millions` = round(`value in millions` * 0.25)
+-- 	where UnitCode = 'PLN'
+
+-- UPDATE Pensions
+-- set 
+--     `value in millions` = round(`value in millions` * 0.093)
+-- 	where UnitCode = 'SEK'
+
+-- UPDATE Family_Benefits
+-- set 
+--     `value in millions` = round(`value in millions` * 0.093)
+-- 	where UnitCode = 'SEK'
+
+-- UPDATE Labor_Market
+-- set 
+--     `value in millions` = round(`value in millions` * 0.093)
+-- 	where UnitCode = 'SEK'
+
+-- UPDATE Pensions
+-- set 
+--     `value in millions` = round(`value in millions` * 1.12)
+-- 	where UnitCode = 'CHF'
+
+-- UPDATE Family_Benefits
+-- set 
+--     `value in millions` = round(`value in millions` * 1.12)
+-- 	where UnitCode = 'CHF'
+
+-- UPDATE Labor_Market
+-- set 
+--     `value in millions` = round(`value in millions` * 1.12)
+-- 	where UnitCode = 'CHF'
+
+-- UPDATE Pensions
+-- set 
+--     `value in millions` = round(`value in millions` * 0.039)
+-- 	where UnitCode = 'TRY'
+
+-- UPDATE Family_Benefits
+-- set 
+--     `value in millions` = round(`value in millions` * 0.039)
+-- 	where UnitCode = 'TRY'
+
+-- UPDATE Labor_Market
+-- set 
+--     `value in millions` = round(`value in millions` * 0.039)
+-- 	where UnitCode = 'TRY'
+
+-- UPDATE Pensions
+-- set 
+--     `value in millions` = round(`value in millions` * 1.27)
+-- 	where UnitCode = 'GBP'
+	
+-- UPDATE Family_Benefits
+-- set 
+--     `value in millions` = round(`value in millions` * 1.27)
+-- 	where UnitCode = 'GBP'
+
+-- UPDATE Labor_Market
+-- set 
+--     `value in millions` = round(`value in millions` * 1.27)
+-- 	where UnitCode = 'GBP'
+
+-- UPDATE Pensions
+-- set 
+--     `value in millions` = round(`value in millions` * 0.0012)
+-- 	where UnitCode = 'CLP'
+
+-- UPDATE Family_Benefits
+-- set 
+--     `value in millions` = round(`value in millions` * 0.0012)
+-- 	where UnitCode = 'CLP'
+
+-- UPDATE Labor_Market
+-- set 
+--     `value in millions` = round(`value in millions` * 0.0012)
+-- 	where UnitCode = 'CLP'
+
+-- UPDATE Pensions
+-- set 
+--     `value in millions` = round(`value in millions` * 0.27)
+-- 	where UnitCode = 'ILS'
+-- 
+-- UPDATE Family_Benefits
+-- set 
+--     `value in millions` = round(`value in millions` * 0.27)
+-- 	where UnitCode = 'ILS'
+
+-- UPDATE Labor_Market
+-- set
+--     `value in millions` = round(`value in millions` * 0.27)
+-- 	where UnitCode = 'ILS'
+
+-- ALTER TABLE Pensions
+-- DROP COLUMN Unit
+
+-- ALTER TABLE Family_Benefits
+-- DROP COLUMN Unit
+
+-- ALTER TABLE Labor_Market
+-- DROP COLUMN Unit
+
+-- UPDATE Pensions
+-- SET UnitCode = 'USD'
+
+-- UPDATE Family_Benefits
+-- SET UnitCode = 'USD'
+
+-- UPDATE Labor_Market
+-- SET UnitCode = 'USD'
+
+-- SELECT DISTINCT Financingscheme
+-- from Healthcare
+
+-- DELETE FROM Healthcare
+-- where Financingscheme is not 'Government/compulsory schemes'
+
+-- DELETE FROM Healthcare
+-- where Measure is not 'Share of gross domestic product'
+
+-- alter TABLE Healthcare
+-- drop COLUMN LOCATION
+
+-- SELECT DISTINCT hf
+-- from Healthcare
+
+-- alter TABLE Healthcare
+-- drop COLUMN hf
+
+-- SELECT DISTINCT Function
+-- from Healthcare
+
+-- DELETE FROM Healthcare
+-- where function is not 'Current expenditure on health (all functions)'
+
+-- SELECT DISTINCT hp
+-- from Healthcare
+
+-- alter TABLE Healthcare
+-- drop COLUMN hc
+
+-- SELECT DISTINCT Provider
+-- from Healthcare
+
+-- delete from Healthcare
+-- where Provider is not 'All providers'
+
+-- SELECT DISTINCT hp
+-- from Healthcare
+
+-- ALTER TABLE Healthcare
+-- drop COLUMN hp
+
+-- SELECT DISTINCT MEASURE1
+-- from Healthcare
+
+-- alter TABLE Healthcare
+-- drop COLUMN MEASURE1
+
+-- alter TABLE Healthcare
+-- drop COLUMN Provider
+
+-- SELECT DISTINCT NULL
+-- from Healthcare
+
+-- select DISTINCT Country
+-- from Healthcare
+
+-- delete from Healthcare
+-- where country is 'Brazil'
+
+--  delete from Healthcare
+--  where country is 'Montenegro'
+
+--  delete from Healthcare
+--  where country is 'Bulgaria'
+ 
+--   delete from Healthcare
+--  where country is 'Romania'
+
+--  delete from Healthcare
+--  where country is 'Cyprus'
+
+--  delete from Healthcare
+--  where country is 'Croatia'
+
+--  delete from Healthcare
+--  where country is 'Malta'
+
+--  delete from Healthcare
+--  where country like '%China%'
+ 
+--   delete from Healthcare
+--  where country like 'Peru'
+
+--   delete from Healthcare
+--  where country like 'Serbia'
+
+--   delete from Healthcare
+--  where country like 'India'
+
+-- SELECT DISTINCT Country
+-- from Healthcare
+
+-- delete from Healthcare
+-- where country like 'Argentina'
+
+-- ALTER TABLE Healthcare
+-- drop COLUMN time
+
+-- alter TABLE Healthcare
+-- RENAME COLUMN Value to 'Value in %'
+
+-- DELETE FROM Family_Benefits
+-- WHERE TypeofExpenditure IS NOT 'Total'
+
+-- DELETE FROM Pensions
+-- WHERE TypeofExpenditure IS NOT 'Total'</sql><current_tab id="4"/></tab_sql></sqlb_project>

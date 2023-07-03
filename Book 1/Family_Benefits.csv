@@ -1,0 +1,183 @@
+Branch,TypeofExpenditure,COUNTRY,Year,UnitCode,Value in Millions
+Family,Total,Australia,2000,USD,13730.0
+Family,Total,Australia,2005,USD,18339.0
+Family,Total,Australia,2010,USD,24337.0
+Family,Total,Australia,2015,USD,29742.0
+Family,Total,Australia,2019,USD,31107.0
+Family,Total,Austria,2000,USD,7435.0
+Family,Total,Austria,2005,USD,8719.0
+Family,Total,Austria,2010,USD,10381.0
+Family,Total,Austria,2015,USD,10886.0
+Family,Total,Austria,2019,USD,11868.0
+Family,Total,Belgium,2000,USD,7518.0
+Family,Total,Belgium,2005,USD,9527.0
+Family,Total,Belgium,2010,USD,12216.0
+Family,Total,Belgium,2015,USD,13749.0
+Family,Total,Belgium,2019,USD,15743.0
+Family,Total,Canada,2000,USD,7487.0
+Family,Total,Canada,2005,USD,11627.0
+Family,Total,Canada,2010,USD,16254.0
+Family,Total,Canada,2015,USD,23621.0
+Family,Total,Canada,2019,USD,30597.0
+Family,Total,Canada,2020,USD,29401.0
+Family,Total,Czech Republic,2000,USD,1941.0
+Family,Total,Czech Republic,2005,USD,2995.0
+Family,Total,Czech Republic,2010,USD,4202.0
+Family,Total,Czech Republic,2015,USD,4283.0
+Family,Total,Czech Republic,2019,USD,5590.0
+Family,Total,Denmark,2000,USD,6758.0
+Family,Total,Denmark,2005,USD,8326.0
+Family,Total,Denmark,2010,USD,10575.0
+Family,Total,Denmark,2015,USD,10750.0
+Family,Total,Denmark,2019,USD,11486.0
+Family,Total,Finland,2000,USD,4749.0
+Family,Total,Finland,2005,USD,5546.0
+Family,Total,Finland,2010,USD,6935.0
+Family,Total,Finland,2015,USD,7750.0
+Family,Total,Finland,2019,USD,8236.0
+Family,Total,France,2000,USD,52804.0
+Family,Total,France,2005,USD,61563.0
+Family,Total,France,2010,USD,69285.0
+Family,Total,France,2015,USD,76477.0
+Family,Total,France,2019,USD,78557.0
+Family,Total,France,2020,USD,80383.0
+Family,Total,Germany,2000,USD,51558.0
+Family,Total,Germany,2005,USD,55806.0
+Family,Total,Germany,2010,USD,66694.0
+Family,Total,Germany,2015,USD,81402.0
+Family,Total,Germany,2019,USD,99853.0
+Family,Total,Greece,2000,USD,1372.0
+Family,Total,Greece,2005,USD,1844.0
+Family,Total,Greece,2010,USD,2605.0
+Family,Total,Greece,2015,USD,2693.0
+Family,Total,Greece,2019,USD,3849.0
+Family,Total,Hungary,2000,USD,1157.0
+Family,Total,Hungary,2005,USD,1962.0
+Family,Total,Hungary,2010,USD,2678.0
+Family,Total,Hungary,2015,USD,2752.0
+Family,Total,Hungary,2019,USD,3297.0
+Family,Total,Iceland,2000,USD,111.0
+Family,Total,Iceland,2005,USD,224.0
+Family,Total,Iceland,2010,USD,438.0
+Family,Total,Iceland,2015,USD,562.0
+Family,Total,Iceland,2019,USD,753.0
+Family,Total,Ireland,2000,USD,2514.0
+Family,Total,Ireland,2005,USD,5170.0
+Family,Total,Ireland,2010,USD,6819.0
+Family,Total,Ireland,2015,USD,6230.0
+Family,Total,Ireland,2019,USD,6931.0
+Family,Total,Italy,2000,USD,17238.0
+Family,Total,Italy,2005,USD,21364.0
+Family,Total,Italy,2010,USD,25274.0
+Family,Total,Italy,2015,USD,27398.0
+Family,Total,Italy,2019,USD,30283.0
+Family,Total,Japan,2000,USD,19888.0
+Family,Total,Japan,2005,USD,25900.0
+Family,Total,Japan,2010,USD,39138.0
+Family,Total,Japan,2015,USD,52455.0
+Family,Total,Japan,2019,USD,66744.0
+Family,Total,Japan,2020,USD,74199.0
+Family,Total,Korea,2000,USD,505.0
+Family,Total,Korea,2005,USD,1620.0
+Family,Total,Korea,2010,USD,6726.0
+Family,Total,Korea,2015,USD,14207.0
+Family,Total,Korea,2019,USD,20092.0
+Family,Total,Korea,2020,USD,22819.0
+Family,Total,Luxembourg,2000,USD,814.0
+Family,Total,Luxembourg,2005,USD,1284.0
+Family,Total,Luxembourg,2010,USD,1881.0
+Family,Total,Luxembourg,2015,USD,2084.0
+Family,Total,Luxembourg,2019,USD,2493.0
+Family,Total,Mexico,2000,USD,2334.0
+Family,Total,Mexico,2005,USD,4983.0
+Family,Total,Mexico,2010,USD,8060.0
+Family,Total,Mexico,2015,USD,11069.0
+Family,Total,Mexico,2019,USD,8877.0
+Family,Total,Netherlands,2000,USD,7666.0
+Family,Total,Netherlands,2005,USD,10055.0
+Family,Total,Netherlands,2010,USD,11598.0
+Family,Total,Netherlands,2015,USD,11813.0
+Family,Total,Netherlands,2019,USD,15211.0
+Family,Total,New Zealand,2000,USD,1982.0
+Family,Total,New Zealand,2005,USD,2939.0
+Family,Total,New Zealand,2010,USD,4603.0
+Family,Total,New Zealand,2015,USD,4327.0
+Family,Total,New Zealand,2019,USD,5236.0
+Family,Total,New Zealand,2020,USD,5653.0
+Family,Total,New Zealand,2021,USD,5992.0
+Family,Total,Norway,2000,USD,4200.0
+Family,Total,Norway,2005,USD,5163.0
+Family,Total,Norway,2010,USD,7589.0
+Family,Total,Norway,2015,USD,9451.0
+Family,Total,Norway,2019,USD,10562.0
+Family,Total,Poland,2000,USD,2205.0
+Family,Total,Poland,2005,USD,2993.0
+Family,Total,Poland,2010,USD,4825.0
+Family,Total,Poland,2015,USD,6822.0
+Family,Total,Poland,2019,USD,17311.0
+Family,Total,Portugal,2000,USD,1486.0
+Family,Total,Portugal,2005,USD,2226.0
+Family,Total,Portugal,2010,USD,2962.0
+Family,Total,Portugal,2015,USD,2555.0
+Family,Total,Portugal,2019,USD,3080.0
+Family,Total,Slovak Republic,2000,USD,739.0
+Family,Total,Slovak Republic,2005,USD,907.0
+Family,Total,Slovak Republic,2010,USD,1286.0
+Family,Total,Slovak Republic,2015,USD,1542.0
+Family,Total,Slovak Republic,2019,USD,2001.0
+Family,Total,Spain,2000,USD,7254.0
+Family,Total,Spain,2005,USD,12768.0
+Family,Total,Spain,2010,USD,18167.0
+Family,Total,Spain,2015,USD,15850.0
+Family,Total,Spain,2019,USD,18842.0
+Family,Total,Sweden,2000,USD,6215.0
+Family,Total,Sweden,2005,USD,8529.0
+Family,Total,Sweden,2010,USD,11214.0
+Family,Total,Sweden,2015,USD,13696.0
+Family,Total,Sweden,2019,USD,16065.0
+Family,Total,Switzerland,2000,USD,7250.0
+Family,Total,Switzerland,2005,USD,8518.0
+Family,Total,Switzerland,2010,USD,10251.0
+Family,Total,Switzerland,2015,USD,13193.0
+Family,Total,Switzerland,2019,USD,14096.0
+Family,Total,Turkey,2000,USD,14.0
+Family,Total,Turkey,2005,USD,70.0
+Family,Total,Turkey,2010,USD,144.0
+Family,Total,Turkey,2015,USD,347.0
+Family,Total,Turkey,2019,USD,904.0
+Family,Total,United Kingdom,2000,USD,33692.0
+Family,Total,United Kingdom,2005,USD,51078.0
+Family,Total,United Kingdom,2010,USD,80900.0
+Family,Total,United Kingdom,2015,USD,84520.0
+Family,Total,United Kingdom,2019,USD,68180.0
+Family,Total,United Kingdom,2020,USD,64203.0
+Family,Total,USA,2000,USD,79919.886
+Family,Total,USA,2005,USD,90648.286
+Family,Total,USA,2010,USD,111787.296
+Family,Total,USA,2015,USD,115970.984
+Family,Total,USA,2019,USD,130902.681
+Family,Total,USA,2020,USD,140140.629
+Family,Total,Chile,2000,USD,574.0
+Family,Total,Chile,2005,USD,691.0
+Family,Total,Chile,2010,USD,1981.0
+Family,Total,Chile,2015,USD,3259.0
+Family,Total,Chile,2019,USD,4099.0
+Family,Total,Chile,2020,USD,7769.0
+Family,Total,Chile,2021,USD,23549.0
+Family,Total,Estonia,2000,USD,128.0
+Family,Total,Estonia,2005,USD,234.0
+Family,Total,Estonia,2010,USD,448.0
+Family,Total,Estonia,2015,USD,683.0
+Family,Total,Estonia,2019,USD,1058.0
+Family,Total,Israel,2000,USD,3503.0
+Family,Total,Israel,2005,USD,3130.0
+Family,Total,Israel,2010,USD,4742.0
+Family,Total,Israel,2015,USD,5806.0
+Family,Total,Israel,2019,USD,8000.0
+Family,Total,Israel,2020,USD,7838.0
+Family,Total,Israel,2021,USD,8046.0
+Family,Total,Slovenia,2000,USD,477.0
+Family,Total,Slovenia,2005,USD,661.0
+Family,Total,Slovenia,2010,USD,915.0
+Family,Total,Slovenia,2015,USD,823.0
+Family,Total,Slovenia,2019,USD,1045.0

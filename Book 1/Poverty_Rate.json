@@ -1,0 +1,634 @@
+[
+    {
+        "Country": "AUS",
+        "Date": 2018,
+        "Indicator": "Poverty Rate",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.124
+    },
+    {
+        "Country": "AUS",
+        "Date": 2020,
+        "Indicator": "Poverty Rate",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.126
+    },
+    {
+        "Country": "AUT",
+        "Date": 2018,
+        "Indicator": "Poverty Rate",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.094
+    },
+    {
+        "Country": "AUT",
+        "Date": 2019,
+        "Indicator": "Poverty Rate",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.1
+    },
+    {
+        "Country": "BEL",
+        "Date": 2018,
+        "Indicator": "Poverty Rate",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.082
+    },
+    {
+        "Country": "BEL",
+        "Date": 2019,
+        "Indicator": "Poverty Rate",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.081
+    },
+    {
+        "Country": "CAN",
+        "Date": 2018,
+        "Indicator": "Poverty Rate",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.118
+    },
+    {
+        "Country": "CAN",
+        "Date": 2019,
+        "Indicator": "Poverty Rate",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.115
+    },
+    {
+        "Country": "CAN",
+        "Date": 2020,
+        "Indicator": "Poverty Rate",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.086
+    },
+    {
+        "Country": "CZE",
+        "Date": 2018,
+        "Indicator": "Poverty Rate",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.061
+    },
+    {
+        "Country": "CZE",
+        "Date": 2019,
+        "Indicator": "Poverty Rate",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.056
+    },
+    {
+        "Country": "DNK",
+        "Date": 2018,
+        "Indicator": "Poverty Rate",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.064
+    },
+    {
+        "Country": "DNK",
+        "Date": 2019,
+        "Indicator": "Poverty Rate",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.065
+    },
+    {
+        "Country": "FIN",
+        "Date": 2018,
+        "Indicator": "Poverty Rate",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.065
+    },
+    {
+        "Country": "FIN",
+        "Date": 2019,
+        "Indicator": "Poverty Rate",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.064
+    },
+    {
+        "Country": "FIN",
+        "Date": 2020,
+        "Indicator": "Poverty Rate",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.057
+    },
+    {
+        "Country": "FRA",
+        "Date": 2018,
+        "Indicator": "Poverty Rate",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.085
+    },
+    {
+        "Country": "FRA",
+        "Date": 2019,
+        "Indicator": "Poverty Rate",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.084
+    },
+    {
+        "Country": "DEU",
+        "Date": 2018,
+        "Indicator": "Poverty Rate",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.098
+    },
+    {
+        "Country": "DEU",
+        "Date": 2019,
+        "Indicator": "Poverty Rate",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.109
+    },
+    {
+        "Country": "GRC",
+        "Date": 2018,
+        "Indicator": "Poverty Rate",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.121
+    },
+    {
+        "Country": "GRC",
+        "Date": 2019,
+        "Indicator": "Poverty Rate",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.115
+    },
+    {
+        "Country": "HUN",
+        "Date": 2018,
+        "Indicator": "Poverty Rate",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.087
+    },
+    {
+        "Country": "HUN",
+        "Date": 2019,
+        "Indicator": "Poverty Rate",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.092
+    },
+    {
+        "Country": "IRL",
+        "Date": 2018,
+        "Indicator": "Poverty Rate",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.074
+    },
+    {
+        "Country": "ITA",
+        "Date": 2018,
+        "Indicator": "Poverty Rate",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.142
+    },
+    {
+        "Country": "KOR",
+        "Date": 2018,
+        "Indicator": "Poverty Rate",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.167
+    },
+    {
+        "Country": "KOR",
+        "Date": 2019,
+        "Indicator": "Poverty Rate",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.163
+    },
+    {
+        "Country": "KOR",
+        "Date": 2020,
+        "Indicator": "Poverty Rate",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.153
+    },
+    {
+        "Country": "LUX",
+        "Date": 2018,
+        "Indicator": "Poverty Rate",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.114
+    },
+    {
+        "Country": "LUX",
+        "Date": 2019,
+        "Indicator": "Poverty Rate",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.105
+    },
+    {
+        "Country": "MEX",
+        "Date": 2018,
+        "Indicator": "Poverty Rate",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.159
+    },
+    {
+        "Country": "MEX",
+        "Date": 2020,
+        "Indicator": "Poverty Rate",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.166
+    },
+    {
+        "Country": "NLD",
+        "Date": 2018,
+        "Indicator": "Poverty Rate",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.078
+    },
+    {
+        "Country": "NLD",
+        "Date": 2019,
+        "Indicator": "Poverty Rate",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.08
+    },
+    {
+        "Country": "NLD",
+        "Date": 2020,
+        "Indicator": "Poverty Rate",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.083
+    },
+    {
+        "Country": "NZL",
+        "Date": 2018,
+        "Indicator": "Poverty Rate",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.137
+    },
+    {
+        "Country": "NZL",
+        "Date": 2019,
+        "Indicator": "Poverty Rate",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.129
+    },
+    {
+        "Country": "NZL",
+        "Date": 2020,
+        "Indicator": "Poverty Rate",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.124
+    },
+    {
+        "Country": "NOR",
+        "Date": 2018,
+        "Indicator": "Poverty Rate",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.084
+    },
+    {
+        "Country": "NOR",
+        "Date": 2019,
+        "Indicator": "Poverty Rate",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.084
+    },
+    {
+        "Country": "NOR",
+        "Date": 2020,
+        "Indicator": "Poverty Rate",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.084
+    },
+    {
+        "Country": "POL",
+        "Date": 2018,
+        "Indicator": "Poverty Rate",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.098
+    },
+    {
+        "Country": "PRT",
+        "Date": 2018,
+        "Indicator": "Poverty Rate",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.104
+    },
+    {
+        "Country": "PRT",
+        "Date": 2019,
+        "Indicator": "Poverty Rate",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.106
+    },
+    {
+        "Country": "SVK",
+        "Date": 2018,
+        "Indicator": "Poverty Rate",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.077
+    },
+    {
+        "Country": "SVK",
+        "Date": 2019,
+        "Indicator": "Poverty Rate",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.078
+    },
+    {
+        "Country": "ESP",
+        "Date": 2018,
+        "Indicator": "Poverty Rate",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.142
+    },
+    {
+        "Country": "ESP",
+        "Date": 2019,
+        "Indicator": "Poverty Rate",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.147
+    },
+    {
+        "Country": "SWE",
+        "Date": 2018,
+        "Indicator": "Poverty Rate",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.087
+    },
+    {
+        "Country": "SWE",
+        "Date": 2019,
+        "Indicator": "Poverty Rate",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.091
+    },
+    {
+        "Country": "SWE",
+        "Date": 2020,
+        "Indicator": "Poverty Rate",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.088
+    },
+    {
+        "Country": "CHE",
+        "Date": 2018,
+        "Indicator": "Poverty Rate",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.105
+    },
+    {
+        "Country": "CHE",
+        "Date": 2019,
+        "Indicator": "Poverty Rate",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.099
+    },
+    {
+        "Country": "TUR",
+        "Date": 2018,
+        "Indicator": "Poverty Rate",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.144
+    },
+    {
+        "Country": "TUR",
+        "Date": 2019,
+        "Indicator": "Poverty Rate",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.15
+    },
+    {
+        "Country": "GBR",
+        "Date": 2018,
+        "Indicator": "Poverty Rate",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.117
+    },
+    {
+        "Country": "GBR",
+        "Date": 2019,
+        "Indicator": "Poverty Rate",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.124
+    },
+    {
+        "Country": "GBR",
+        "Date": 2020,
+        "Indicator": "Poverty Rate",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.112
+    },
+    {
+        "Country": "USA",
+        "Date": 2018,
+        "Indicator": "Poverty Rate",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.181
+    },
+    {
+        "Country": "USA",
+        "Date": 2019,
+        "Indicator": "Poverty Rate",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.18
+    },
+    {
+        "Country": "USA",
+        "Date": 2020,
+        "Indicator": "Poverty Rate",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.166
+    },
+    {
+        "Country": "USA",
+        "Date": 2021,
+        "Indicator": "Poverty Rate",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.151
+    },
+    {
+        "Country": "EST",
+        "Date": 2018,
+        "Indicator": "Poverty Rate",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.163
+    },
+    {
+        "Country": "EST",
+        "Date": 2019,
+        "Indicator": "Poverty Rate",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.149
+    },
+    {
+        "Country": "ISR",
+        "Date": 2018,
+        "Indicator": "Poverty Rate",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.169
+    },
+    {
+        "Country": "ISR",
+        "Date": 2019,
+        "Indicator": "Poverty Rate",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.173
+    },
+    {
+        "Country": "SVN",
+        "Date": 2018,
+        "Indicator": "Poverty Rate",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.075
+    },
+    {
+        "Country": "SVN",
+        "Date": 2019,
+        "Indicator": "Poverty Rate",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.074
+    },
+    {
+        "Country": "JPN",
+        "Date": 2018,
+        "Indicator": "Poverty Rate",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.157
+    },
+    {
+        "Country": "LVA",
+        "Date": 2018,
+        "Indicator": "Poverty Rate",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.175
+    },
+    {
+        "Country": "LVA",
+        "Date": 2019,
+        "Indicator": "Poverty Rate",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.162
+    },
+    {
+        "Country": "LVA",
+        "Date": 2020,
+        "Indicator": "Poverty Rate",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.169
+    },
+    {
+        "Country": "LTU",
+        "Date": 2018,
+        "Indicator": "Poverty Rate",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.155
+    },
+    {
+        "Country": "LTU",
+        "Date": 2019,
+        "Indicator": "Poverty Rate",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.154
+    },
+    {
+        "Country": "CRI",
+        "Date": 2018,
+        "Indicator": "Poverty Rate",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.209
+    },
+    {
+        "Country": "CRI",
+        "Date": 2019,
+        "Indicator": "Poverty Rate",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.199
+    },
+    {
+        "Country": "CRI",
+        "Date": 2020,
+        "Indicator": "Poverty Rate",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.205
+    },
+    {
+        "Country": "CRI",
+        "Date": 2021,
+        "Indicator": "Poverty Rate",
+        "Measure": "Ratio",
+        "Subject": "Total",
+        "Value": 0.203
+    }
+]
